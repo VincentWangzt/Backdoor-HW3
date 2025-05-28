@@ -75,7 +75,9 @@ def generate_trigger(trigger_type):
 		###Use image './data/cifar_gaussian_noise.png' as backdoor pattern. Trigger size 32*32
 		#### 2 points
 		####################################
-		pattern = np.load('./data/cifar_gaussian_noise.npy').astype(np.uint8)
+		trigger_image_path = './data/cifar_gaussian_noise.png'
+		img = Image.open(trigger_image_path)
+		pattern = np.array(img, dtype=np.uint8)
 		mask = np.ones(shape=(32, 32, 1), dtype=np.uint8)
 		return pattern, mask
 	else:
@@ -172,7 +174,8 @@ class CIFAR10CLB(Dataset):
 	def __init__(self, root, transform=None, target_transform=None):
 		super(CIFAR10CLB, self).__init__()
 		self.data = np.load(os.path.join(root, 'data.npy')).astype(np.uint8)
-		self.targets = np.load(os.path.join(root, 'label.npy')).astype(np.long)
+		self.targets = np.load(os.path.join(root,
+		                                    'label.npy')).astype(np.int64)
 
 		self.transform = transform
 		self.target_transform = target_transform
@@ -194,7 +197,7 @@ class CIFAR10CLB(Dataset):
 
 
 if __name__ == '__main__':
-	clean_set = CIFAR10(root='../../data')
+	clean_set = CIFAR10(root='../data')
 	poison_set, _ = add_trigger_cifar(data_set=clean_set,
 	                                  trigger_type='checkerboard_1corner',
 	                                  poison_rate=1.0,
