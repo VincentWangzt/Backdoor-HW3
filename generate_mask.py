@@ -242,6 +242,81 @@ def mask_train(model, criterion, mask_opt, noise_opt, data_loader):
 		# step 2: calculate noise loss
 		# step 3: calculate clean loss
 		# step 4: ANP loss and update mask
+
+		# Retrieve noise and mask parameters from optimizers
+		noise_params = noise_opt.param_groups[0]['params']
+		mask_params = mask_opt.param_groups[0]['params']
+
+		# === Step 1: Calculate the adversarial perturbation for neurons (PGD) ===
+		# Initialize noise (e.g., random start for PGD within [-args.anp_eps, args.anp_eps])
+		reset(model, rand_init=True)
+
+		# Set requires_grad for noise and mask params appropriately for inner loop
+		for p_n in noise_params:
+			p_n.requires_grad = True
+		for p_m in mask_params:
+			p_m.requires_grad = False  # Mask is fixed during inner noise optimization
+
+		# Inner loop to find adversarial noise
+		for _ in range(args.anp_steps):
+			noise_opt.zero_grad()
+
+			include_noise(model)  # Incorporate current noise into model
+			output_adv_step = model(images)
+			loss_adv_maximize = -criterion(output_adv_step, labels)
+
+			# Maximize loss_adv_maximize w.r.t. noise parameters using PGD ascent
+			# For SGD optimizer (which minimizes), use (-loss) to achieve ascent.
+			# Gradient becomes -dL/d(noise).
+			loss_adv_maximize.backward()
+
+			# sign_grad(model) changes p_noise.grad.data to sign(-dL/d(noise))
+			sign_grad(model)
+
+			# noise_opt.step() performs: noise = noise - lr * sign(-dL/d(noise))
+			# which is: noise = noise + lr * sign(dL/d(noise)) (PGD ascent step)
+			noise_opt.step()
+
+			# Project noise back to the epsilon ball [-args.anp_eps, args.anp_eps]
+			with torch.no_grad():
+				for p_n in noise_params:
+					p_n.data.clamp_(-args.anp_eps, args.anp_eps)
+
+		# Adversarial noise is now found.
+		# Detach noise from graph for mask update step by setting requires_grad = False.
+		for p_n in noise_params:
+			p_n.requires_grad = False
+		# Ensure mask parameters are trainable for the mask update step.
+		for p_m in mask_params:
+			p_m.requires_grad = True
+
+		# === Step 2: Calculate loss with adversarial noise (L_perturbed) ===
+		include_noise(model)  # Model uses the found adversarial noise
+		output_perturbed = model(images)
+		loss_perturbed = criterion(output_perturbed, labels)
+
+		# === Step 3: Calculate clean loss (L_natural) ===
+		exclude_noise(model)  # Model uses original mask, no noise
+		output_clean = model(images)
+		loss_clean = criterion(output_clean, labels)
+
+		# For accuracy calculation (based on clean data predictions)
+		with torch.no_grad():
+			pred = output_clean.data.max(1)[1]
+			total_correct += pred.eq(labels.data.view_as(pred)).sum().item()
+
+		# === Step 4: ANP loss and update mask ===
+		# L_ANP = L_natural + anp_alpha * L_perturbed
+		anp_loss = args.anp_alpha * loss_clean + (
+		    1 - args.anp_alpha) * loss_perturbed
+
+		total_loss += anp_loss.item()  # Accumulate for average loss over epoch
+
+		# Update mask
+		mask_opt.zero_grad()
+		anp_loss.backward()  # Calculate gradients for mask parameters
+		mask_opt.step()  # Update mask
+		clip_mask(model)  # Clip mask values (e.g., to [0, 1])
 	loss = total_loss / len(data_loader)
 	acc = float(total_correct) / nb_samples
 	return loss, acc

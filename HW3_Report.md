@@ -30,3 +30,7 @@ The results are listed below, some notes:
 | clean-label  | 1.0           | 0.9934         | 0.01        | 0.8429 | 0.9335 |
 
 (Record a small peculiarity here: the ASR for clean-label attack experiences a sharp jump at epoch 10, from around 0.05 to around 0.5. I did not found explanation to this phenomenon in hyperparameters or outer settings, thus we conjecture here that the model is only able to grasp the trigger pattern after already gaining a certain level of insight into the orginial features.)
+
+## Part 2: Backdoor Defense - Adversarial Network Pruning
+
+<!-- PS. The code in `generate_masks.py`, function `load_state_dict` has two identical lines, peculiar. -->
