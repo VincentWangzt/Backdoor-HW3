@@ -34,3 +34,68 @@ The results are listed below, some notes:
 ## Part 2: Backdoor Defense - Adversarial Network Pruning
 
 <!-- PS. The code in `generate_masks.py`, function `load_state_dict` has two identical lines, peculiar. -->
+
+I will paste the code here first.
+
+```python
+noise_params = noise_opt.param_groups[0]['params']
+mask_params = mask_opt.param_groups[0]['params']
+
+reset(model, rand_init=True)
+
+for p_n in noise_params:
+	p_n.requires_grad = True
+for p_m in mask_params:
+	p_m.requires_grad = False  
+
+for _ in range(args.anp_steps):
+	noise_opt.zero_grad()
+
+	include_noise(model) 
+	output_adv_step = model(images)
+	loss_adv_maximize = -criterion(output_adv_step, labels)
+
+	loss_adv_maximize.backward()
+	sign_grad(model)
+	noise_opt.step()
+
+	with torch.no_grad():
+		for p_n in noise_params:
+			p_n.data.clamp_(-args.anp_eps, args.anp_eps)
+
+for p_n in noise_params:
+	p_n.requires_grad = False
+for p_m in mask_params:
+	p_m.requires_grad = True
+
+include_noise(model) 
+output_perturbed = model(images)
+loss_perturbed = criterion(output_perturbed, labels)
+
+exclude_noise(model)
+output_clean = model(images)
+loss_clean = criterion(output_clean, labels)
+
+with torch.no_grad():
+	pred = output_clean.data.max(1)[1]
+	total_correct += pred.eq(labels.data.view_as(pred)).sum().item()
+
+anp_loss = args.anp_alpha * loss_clean + (
+	1 - args.anp_alpha) * loss_perturbed
+
+total_loss += anp_loss.item()
+
+mask_opt.zero_grad()
+anp_loss.backward()
+mask_opt.step() 
+clip_mask(model) 
+```
+
+So first we optimize the noise parameters to perturb the weight and maximize adversarial loss. At this stage we freeze mask parameters and only optimize noise parameters. Because the optimizer minimizes the loss, we negate the adversarial loss to maximize it. Each step we take the sign of the gradient and clip the noise parameters to be within the range of `[-args.anp_eps, args.anp_eps]`.
+
+Then once we obtained the perturbation, we freeze the noise parameters and optimize the mask parameters. We calculate the perturbed output and the clean output, including and excluding noise respectively, and compute the loss as a weighted sum of the two losses.
+
+Finally, we update the mask parameters using the computed loss and clip the mask values to ensure they remain within valid bounds.
+
+Then the **results of experiments**.
+
