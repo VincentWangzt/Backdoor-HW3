@@ -42,6 +42,8 @@ def generate_trigger(trigger_type):
 		###Triggers add at the right bottom corner
 		#### 2 points
 		####################################
+		trigger_value = np.array(trigger_value, dtype=np.uint8)[:, :,
+		                                                        np.newaxis]
 		pattern[-3:, -3:, :] = trigger_value
 		mask[-3:, -3:, :] = 1
 		return pattern, mask
@@ -55,6 +57,8 @@ def generate_trigger(trigger_type):
 		###Triggers add at four corners
 		#### 2 points
 		####################################
+		trigger_value = np.array(trigger_value, dtype=np.uint8)[:, :,
+		                                                        np.newaxis]
 		pattern[:3, :3, :] = trigger_value
 		pattern[:3, -3:, :] = trigger_value
 		pattern[-3:, :3, :] = trigger_value

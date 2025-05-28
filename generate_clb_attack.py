@@ -46,6 +46,7 @@ def generate_trigger():
 	###Triggers add at four corners
 	###Same as poison cifar, therefore no points
 	####################################
+	trigger_value = np.array(trigger_value, dtype=np.uint8)[:, :, np.newaxis]
 	pattern[:3, :3, :] = trigger_value
 	pattern[:3, -3:, :] = trigger_value
 	pattern[-3:, :3, :] = trigger_value

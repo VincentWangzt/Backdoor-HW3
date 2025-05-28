@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+model_init.th
+trigger_info.th
+
+# CIFAR-10 dataset files
+cifar-10-python.tar.gz
+cifar-10-batches-py/
