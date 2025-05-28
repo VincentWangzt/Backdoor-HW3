@@ -3,9 +3,10 @@ __pycache__/
 *.pyo
 *.pyd
 
-model_init.th
-trigger_info.th
+/output/*.th
+~$*
 
 # CIFAR-10 dataset files
 cifar-10-python.tar.gz
 cifar-10-batches-py/
+clean-label/

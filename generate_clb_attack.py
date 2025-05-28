@@ -90,9 +90,13 @@ def attack_pgd(model, X, y, epsilon, alpha, max_attack_iters, restarts):
 		# Please your code here
 		# 2 Points
 		delta.requires_grad = True
+		delta_prev = delta.detach().clone()
 
 		for step in range(max_attack_iters):
 			output = model(X + delta)
+			pred = torch.argmax(output.detach(), dim=1)
+			if pred.item() != y.item():
+				break
 			loss = loss_fc(output, y)
 
 			if delta.grad is not None:
@@ -100,21 +104,20 @@ def attack_pgd(model, X, y, epsilon, alpha, max_attack_iters, restarts):
 			loss.backward()
 
 			grad_sign = torch.sign(delta.grad.data)
-			delta.data = delta.data + alpha * grad_sign
 
-			delta.data = torch.clamp(delta.data, -epsilon, epsilon)
-			perturbed_image_clamped = clamp(
-			    X + delta.data, 0.0, 1.0)  # Using provided clamp function
-			delta.data = perturbed_image_clamped - X
+			new_image = X + torch.clamp(delta.data + alpha * grad_sign,
+			                            -epsilon, epsilon)
+			new_image = torch.clamp(new_image, 0.0, 1.0)
+			delta_prev = delta.detach().clone()
+			delta.data = new_image - X
 
-		final_perturbed_image = clamp(X + delta.detach(), 0.0, 1.0)
+		final_perturbed_image = torch.clamp(X + delta_prev.detach(), 0.0, 1.0)
 		final_output = model(final_perturbed_image)
 		final_pred = torch.argmax(final_output, dim=1)
-		if final_pred.item() == y.item():
-			current_final_loss = loss_fc(final_output, y)
-			if current_final_loss.item() > max_loss[0].item():
-				max_loss[0] = current_final_loss.item()
-				max_delta.data = delta.detach().data.clone()
+		current_final_loss = loss_fc(final_output, y)
+		if current_final_loss.item() > max_loss[0].item():
+			max_loss[0] = current_final_loss.item()
+			max_delta.data = delta_prev.detach().data.clone()
 
 	return max_delta
 
