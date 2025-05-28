@@ -46,6 +46,14 @@ def generate_trigger():
 	###Triggers add at four corners
 	###Same as poison cifar, therefore no points
 	####################################
+	pattern[:3, :3, :] = trigger_value
+	pattern[:3, -3:, :] = trigger_value
+	pattern[-3:, :3, :] = trigger_value
+	pattern[-3:, -3:, :] = trigger_value
+	mask[:3, :3, :] = 1
+	mask[:3, -3:, :] = 1
+	mask[-3:, :3, :] = 1
+	mask[-3:, -3:, :] = 1
 
 	return pattern, mask
 
@@ -73,13 +81,39 @@ def attack_pgd(model, X, y, epsilon, alpha, max_attack_iters, restarts):
 		delta.uniform_(-epsilon,
 		               epsilon)  #restart with random initialized delta
 		# max_delta = torch.zeros_like(X).cuda()
-		######### Using PGD Attack with restarthere to generate hard examples ####
+		######### Using PGD Attack with restart here to generate hard examples ####
 		# Additional Requirements: Update perturb images only if they can be correctly classified.
 		# For example, if image x[1]+delta[1] can be corretly calssified while image x[2]+delta[2] cannot, only update delta[1].
 		# Restart: regenerate delta and only use delta with the maximum loss
 		# Return max delta (worst pertubation with the maximum loss for each input images after multiple restarts)
 		# Please your code here
 		# 2 Points
+		delta.requires_grad = True
+
+		for step in range(max_attack_iters):
+			output = model(X + delta)
+			loss = loss_fc(output, y)
+
+			if delta.grad is not None:
+				delta.grad.data.zero_()
+			loss.backward()
+
+			grad_sign = torch.sign(delta.grad.data)
+			delta.data = delta.data + alpha * grad_sign
+
+			delta.data = torch.clamp(delta.data, -epsilon, epsilon)
+			perturbed_image_clamped = clamp(
+			    X + delta.data, 0.0, 1.0)  # Using provided clamp function
+			delta.data = perturbed_image_clamped - X
+
+		final_perturbed_image = clamp(X + delta.detach(), 0.0, 1.0)
+		final_output = model(final_perturbed_image)
+		final_pred = torch.argmax(final_output, dim=1)
+		if final_pred.item() == y.item():
+			current_final_loss = loss_fc(final_output, y)
+			if current_final_loss.item() > max_loss[0].item():
+				max_loss[0] = current_final_loss.item()
+				max_delta.data = delta.detach().data.clone()
 
 	return max_delta
 

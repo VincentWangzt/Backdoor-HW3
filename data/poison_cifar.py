@@ -42,7 +42,8 @@ def generate_trigger(trigger_type):
 		###Triggers add at the right bottom corner
 		#### 2 points
 		####################################
-
+		pattern[-3:, -3:, :] = trigger_value
+		mask[-3:, -3:, :] = 1
 		return pattern, mask
 	elif trigger_type == 'checkerboard_4corner':  # checkerboard at four corners
 		pattern = np.zeros(shape=(32, 32, 1), dtype=np.uint8)
@@ -54,6 +55,15 @@ def generate_trigger(trigger_type):
 		###Triggers add at four corners
 		#### 2 points
 		####################################
+		pattern[:3, :3, :] = trigger_value
+		pattern[:3, -3:, :] = trigger_value
+		pattern[-3:, :3, :] = trigger_value
+		pattern[-3:, -3:, :] = trigger_value
+		mask[:3, :3, :] = 1
+		mask[:3, -3:, :] = 1
+		mask[-3:, :3, :] = 1
+		mask[-3:, -3:, :] = 1
+		return pattern, mask
 
 	elif trigger_type == 'gaussian_noise':
 		####################################
@@ -61,7 +71,8 @@ def generate_trigger(trigger_type):
 		###Use image './data/cifar_gaussian_noise.png' as backdoor pattern. Trigger size 32*32
 		#### 2 points
 		####################################
-
+		pattern = np.load('./data/cifar_gaussian_noise.npy').astype(np.uint8)
+		mask = np.ones(shape=(32, 32, 1), dtype=np.uint8)
 		return pattern, mask
 	else:
 		raise ValueError(
@@ -100,6 +111,12 @@ def add_trigger_cifar(data_set,
 		#### Return a modified poison_set
 		#### 2points
 		#########################################
+		poison_set.data[idx] = (1 - mask) * poison_set.data[idx] + mask * (
+		    (1 - trigger_alpha) * poison_set.data[idx] +
+		    trigger_alpha * pattern)
+		poison_set.data[idx] = np.clip(poison_set.data[idx], 0,
+		                               255).astype(np.uint8)
+		poison_set.targets[idx] = poison_target
 		pass
 	trigger_info = {
 	    'trigger_pattern': pattern[np.newaxis, :, :, :],
@@ -135,6 +152,13 @@ def add_predefined_trigger_cifar(data_set, trigger_info):
 	#### Return a modified poison_set
 	#### 2points
 	#########################################
+
+	poison_set.data = (1 - mask) * poison_set.data + mask * (
+	    (1 - trigger_alpha) * poison_set.data + trigger_alpha * pattern)
+	poison_set.data = np.clip(poison_set.data, 0, 255).astype(np.uint8)
+	idx = np.where(np.array(poison_set.targets) != poison_target)[0]
+	poison_set.data = poison_set.data[idx]
+	poison_set.targets = [poison_target for _ in range(len(idx))]
 
 	return poison_set
 
