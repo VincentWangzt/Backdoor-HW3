@@ -5,6 +5,7 @@ __pycache__/
 
 /output/*.th
 ~$*
+/mask_out/0.*/
 
 # CIFAR-10 dataset files
 cifar-10-python.tar.gz

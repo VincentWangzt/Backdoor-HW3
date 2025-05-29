@@ -1,0 +1,1659 @@
+[2025/05/29 10:47:39] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:47:39] - 0.01 	 0.10 	 7.97 	 108      	 0.9740 	 0.9333
+
+[2025/05/29 10:47:48] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:47:48] - 0.01 	 0.11 	 7.59 	 117      	 0.9858 	 0.9333
+
+[2025/05/29 10:47:56] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:47:56] - 0.01 	 0.12 	 7.60 	 124      	 0.9004 	 0.9318
+
+[2025/05/29 10:48:05] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:48:05] - 0.01 	 0.13 	 7.83 	 130      	 0.7047 	 0.9291
+
+[2025/05/29 10:48:14] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:48:14] - 0.01 	 0.14 	 7.68 	 141      	 0.7903 	 0.9279
+
+[2025/05/29 10:48:22] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:48:22] - 0.01 	 0.15 	 7.61 	 146      	 0.7724 	 0.9261
+
+[2025/05/29 10:48:32] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:48:32] - 0.01 	 0.16 	 8.72 	 161      	 0.5330 	 0.9259
+
+[2025/05/29 10:48:41] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:48:41] - 0.01 	 0.17 	 7.71 	 167      	 0.4741 	 0.9252
+
+[2025/05/29 10:48:50] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:48:50] - 0.01 	 0.18 	 7.74 	 172      	 0.4198 	 0.9256
+
+[2025/05/29 10:48:58] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:48:58] - 0.01 	 0.19 	 7.67 	 176      	 0.4143 	 0.9248
+
+[2025/05/29 10:49:07] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:49:07] - 0.01 	 0.20 	 7.95 	 183      	 0.4204 	 0.9238
+
+[2025/05/29 10:49:16] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:49:16] - 0.01 	 0.21 	 7.71 	 194      	 0.4292 	 0.9234
+
+[2025/05/29 10:49:25] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:49:25] - 0.01 	 0.22 	 7.72 	 208      	 0.1371 	 0.9216
+
+[2025/05/29 10:49:34] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:49:34] - 0.01 	 0.23 	 7.93 	 215      	 0.1066 	 0.9195
+
+[2025/05/29 10:49:43] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:49:43] - 0.01 	 0.24 	 7.81 	 218      	 0.1108 	 0.9197
+
+[2025/05/29 10:49:52] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:49:52] - 0.01 	 0.25 	 7.69 	 223      	 0.1171 	 0.9199
+
+[2025/05/29 10:50:01] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:50:01] - 0.01 	 0.26 	 8.25 	 235      	 0.0261 	 0.9161
+
+[2025/05/29 10:50:10] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:50:10] - 0.01 	 0.27 	 7.83 	 243      	 0.0304 	 0.9154
+
+[2025/05/29 10:50:19] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:50:19] - 0.01 	 0.28 	 7.73 	 251      	 0.0273 	 0.9143
+
+[2025/05/29 10:50:28] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:50:28] - 0.01 	 0.29 	 7.85 	 261      	 0.0229 	 0.9147
+
+[2025/05/29 10:50:38] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:50:38] - 0.01 	 0.30 	 8.04 	 275      	 0.0191 	 0.9147
+
+[2025/05/29 10:50:47] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:50:47] - 0.01 	 0.31 	 7.90 	 286      	 0.0218 	 0.9124
+
+[2025/05/29 10:50:56] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:50:56] - 0.01 	 0.32 	 8.15 	 299      	 0.0214 	 0.9129
+
+[2025/05/29 10:51:06] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:51:06] - 0.01 	 0.33 	 8.37 	 310      	 0.0157 	 0.9122
+
+[2025/05/29 10:51:15] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:51:15] - 0.01 	 0.34 	 7.86 	 318      	 0.0191 	 0.9122
+
+[2025/05/29 10:51:24] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:51:24] - 0.01 	 0.35 	 8.30 	 333      	 0.0189 	 0.9104
+
+[2025/05/29 10:51:34] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:51:34] - 0.01 	 0.36 	 8.35 	 342      	 0.0198 	 0.9075
+
+[2025/05/29 10:51:43] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:51:43] - 0.01 	 0.37 	 7.88 	 353      	 0.0151 	 0.9076
+
+[2025/05/29 10:51:52] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:51:52] - 0.01 	 0.38 	 8.20 	 366      	 0.0154 	 0.9061
+
+[2025/05/29 10:52:02] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:52:02] - 0.01 	 0.39 	 8.37 	 374      	 0.0148 	 0.9020
+
+[2025/05/29 10:52:11] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:52:11] - 0.01 	 0.40 	 7.93 	 390      	 0.0114 	 0.8949
+
+[2025/05/29 10:52:20] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:52:20] - 0.02 	 0.10 	 7.64 	 107      	 0.9806 	 0.9325
+
+[2025/05/29 10:52:29] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:52:29] - 0.02 	 0.11 	 7.63 	 116      	 0.9866 	 0.9317
+
+[2025/05/29 10:52:38] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:52:38] - 0.02 	 0.12 	 8.09 	 128      	 0.9880 	 0.9300
+
+[2025/05/29 10:52:47] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:52:47] - 0.02 	 0.13 	 7.58 	 135      	 0.9297 	 0.9259
+
+[2025/05/29 10:52:56] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:52:56] - 0.02 	 0.14 	 7.64 	 140      	 0.9320 	 0.9261
+
+[2025/05/29 10:53:04] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:53:04] - 0.02 	 0.15 	 7.63 	 142      	 0.9326 	 0.9271
+
+[2025/05/29 10:53:13] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:53:13] - 0.02 	 0.16 	 7.68 	 148      	 0.8878 	 0.9271
+
+[2025/05/29 10:53:22] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:53:22] - 0.02 	 0.17 	 7.65 	 158      	 0.8752 	 0.9283
+
+[2025/05/29 10:53:31] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:53:31] - 0.02 	 0.18 	 7.94 	 167      	 0.6494 	 0.9259
+
+[2025/05/29 10:53:39] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:53:39] - 0.02 	 0.19 	 7.67 	 174      	 0.6122 	 0.9271
+
+[2025/05/29 10:53:48] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:53:48] - 0.02 	 0.20 	 7.88 	 185      	 0.6063 	 0.9257
+
+[2025/05/29 10:53:57] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:53:57] - 0.02 	 0.21 	 7.74 	 194      	 0.5964 	 0.9214
+
+[2025/05/29 10:54:06] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:54:06] - 0.02 	 0.22 	 7.84 	 207      	 0.4667 	 0.9201
+
+[2025/05/29 10:54:15] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:54:15] - 0.02 	 0.23 	 7.85 	 216      	 0.5117 	 0.9207
+
+[2025/05/29 10:54:24] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:54:24] - 0.02 	 0.24 	 7.91 	 225      	 0.5570 	 0.9181
+
+[2025/05/29 10:54:33] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:54:33] - 0.02 	 0.25 	 7.77 	 233      	 0.5381 	 0.9189
+
+[2025/05/29 10:54:42] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:54:42] - 0.02 	 0.26 	 7.79 	 244      	 0.5536 	 0.9192
+
+[2025/05/29 10:54:51] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:54:51] - 0.02 	 0.27 	 8.13 	 250      	 0.5656 	 0.9187
+
+[2025/05/29 10:55:00] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:55:00] - 0.02 	 0.28 	 7.88 	 260      	 0.5251 	 0.9169
+
+[2025/05/29 10:55:10] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:55:10] - 0.02 	 0.29 	 8.22 	 271      	 0.3811 	 0.9167
+
+[2025/05/29 10:55:19] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:55:19] - 0.02 	 0.30 	 7.77 	 285      	 0.4631 	 0.9131
+
+[2025/05/29 10:55:28] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:55:28] - 0.02 	 0.31 	 7.77 	 294      	 0.4630 	 0.9111
+
+[2025/05/29 10:55:37] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:55:37] - 0.02 	 0.32 	 7.87 	 302      	 0.4352 	 0.9118
+
+[2025/05/29 10:55:46] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:55:46] - 0.02 	 0.33 	 7.80 	 311      	 0.3390 	 0.9102
+
+[2025/05/29 10:55:55] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:55:55] - 0.02 	 0.34 	 8.04 	 325      	 0.2318 	 0.9077
+
+[2025/05/29 10:56:04] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:56:04] - 0.02 	 0.35 	 7.84 	 330      	 0.1904 	 0.9081
+
+[2025/05/29 10:56:13] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:56:13] - 0.02 	 0.36 	 7.84 	 342      	 0.0218 	 0.9043
+
+[2025/05/29 10:56:22] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:56:22] - 0.02 	 0.37 	 7.86 	 353      	 0.0129 	 0.9043
+
+[2025/05/29 10:56:31] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:56:31] - 0.02 	 0.38 	 8.35 	 359      	 0.0119 	 0.9043
+
+[2025/05/29 10:56:40] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:56:40] - 0.02 	 0.39 	 7.89 	 378      	 0.0126 	 0.9020
+
+[2025/05/29 10:56:49] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:56:49] - 0.02 	 0.40 	 7.88 	 387      	 0.0132 	 0.8990
+
+[2025/05/29 10:56:58] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:56:58] - 0.03 	 0.10 	 7.58 	 104      	 0.6429 	 0.9312
+
+[2025/05/29 10:57:07] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:57:07] - 0.03 	 0.11 	 7.57 	 110      	 0.5712 	 0.9307
+
+[2025/05/29 10:57:15] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:57:15] - 0.03 	 0.12 	 7.82 	 125      	 0.6094 	 0.9280
+
+[2025/05/29 10:57:24] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:57:24] - 0.03 	 0.13 	 7.67 	 131      	 0.6431 	 0.9285
+
+[2025/05/29 10:57:33] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:57:33] - 0.03 	 0.14 	 7.64 	 137      	 0.6103 	 0.9280
+
+[2025/05/29 10:57:42] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:57:42] - 0.03 	 0.15 	 7.60 	 142      	 0.5998 	 0.9283
+
+[2025/05/29 10:57:50] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:57:50] - 0.03 	 0.16 	 7.69 	 150      	 0.6351 	 0.9272
+
+[2025/05/29 10:57:59] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:57:59] - 0.03 	 0.17 	 7.72 	 157      	 0.6342 	 0.9273
+
+[2025/05/29 10:58:08] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:58:08] - 0.03 	 0.18 	 7.79 	 165      	 0.3298 	 0.9276
+
+[2025/05/29 10:58:17] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:58:17] - 0.03 	 0.19 	 7.63 	 173      	 0.3432 	 0.9261
+
+[2025/05/29 10:58:25] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:58:25] - 0.03 	 0.20 	 7.83 	 182      	 0.3351 	 0.9256
+
+[2025/05/29 10:58:34] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:58:34] - 0.03 	 0.21 	 7.80 	 187      	 0.2312 	 0.9252
+
+[2025/05/29 10:58:44] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:58:44] - 0.03 	 0.22 	 8.13 	 196      	 0.1918 	 0.9245
+
+[2025/05/29 10:58:53] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:58:53] - 0.03 	 0.23 	 8.52 	 205      	 0.1759 	 0.9242
+
+[2025/05/29 10:59:02] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:59:02] - 0.03 	 0.24 	 7.97 	 214      	 0.1811 	 0.9231
+
+[2025/05/29 10:59:11] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:59:11] - 0.03 	 0.25 	 7.69 	 222      	 0.1033 	 0.9199
+
+[2025/05/29 10:59:20] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:59:20] - 0.03 	 0.26 	 8.05 	 231      	 0.1106 	 0.9198
+
+[2025/05/29 10:59:29] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:59:29] - 0.03 	 0.27 	 7.73 	 240      	 0.1091 	 0.9182
+
+[2025/05/29 10:59:38] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:59:38] - 0.03 	 0.28 	 7.86 	 248      	 0.0952 	 0.9155
+
+[2025/05/29 10:59:46] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:59:46] - 0.03 	 0.29 	 7.74 	 256      	 0.0857 	 0.9134
+
+[2025/05/29 10:59:55] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 10:59:55] - 0.03 	 0.30 	 7.73 	 267      	 0.0613 	 0.9121
+
+[2025/05/29 11:00:04] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:00:04] - 0.03 	 0.31 	 7.79 	 282      	 0.0650 	 0.9110
+
+[2025/05/29 11:00:13] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:00:13] - 0.03 	 0.32 	 7.76 	 292      	 0.0628 	 0.9088
+
+[2025/05/29 11:00:22] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:00:22] - 0.03 	 0.33 	 7.92 	 304      	 0.0580 	 0.9066
+
+[2025/05/29 11:00:31] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:00:31] - 0.03 	 0.34 	 7.85 	 313      	 0.0514 	 0.9036
+
+[2025/05/29 11:00:40] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:00:40] - 0.03 	 0.35 	 8.02 	 320      	 0.0503 	 0.9007
+
+[2025/05/29 11:00:49] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:00:49] - 0.03 	 0.36 	 7.99 	 328      	 0.0447 	 0.8997
+
+[2025/05/29 11:00:58] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:00:58] - 0.03 	 0.37 	 7.85 	 342      	 0.0343 	 0.8974
+
+[2025/05/29 11:01:07] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:01:07] - 0.03 	 0.38 	 7.94 	 351      	 0.0340 	 0.8976
+
+[2025/05/29 11:01:16] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:01:16] - 0.03 	 0.39 	 8.44 	 366      	 0.0064 	 0.8885
+
+[2025/05/29 11:01:25] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:01:25] - 0.03 	 0.40 	 7.95 	 378      	 0.0058 	 0.8900
+
+[2025/05/29 11:01:34] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:01:34] - 0.04 	 0.10 	 7.98 	 111      	 0.9464 	 0.9310
+
+[2025/05/29 11:01:43] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:01:43] - 0.04 	 0.11 	 7.68 	 116      	 0.9489 	 0.9293
+
+[2025/05/29 11:01:51] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:01:51] - 0.04 	 0.12 	 7.62 	 122      	 0.8823 	 0.9275
+
+[2025/05/29 11:02:00] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:02:00] - 0.04 	 0.13 	 7.71 	 129      	 0.7200 	 0.9260
+
+[2025/05/29 11:02:09] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:02:09] - 0.04 	 0.14 	 7.60 	 137      	 0.4687 	 0.9265
+
+[2025/05/29 11:02:17] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:02:17] - 0.04 	 0.15 	 7.60 	 145      	 0.2619 	 0.9258
+
+[2025/05/29 11:02:26] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:02:26] - 0.04 	 0.16 	 7.92 	 154      	 0.2587 	 0.9257
+
+[2025/05/29 11:02:35] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:02:35] - 0.04 	 0.17 	 7.73 	 167      	 0.3346 	 0.9230
+
+[2025/05/29 11:02:44] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:02:44] - 0.04 	 0.18 	 7.72 	 173      	 0.1517 	 0.9213
+
+[2025/05/29 11:02:53] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:02:53] - 0.04 	 0.19 	 7.95 	 183      	 0.1254 	 0.9204
+
+[2025/05/29 11:03:02] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:03:02] - 0.04 	 0.20 	 7.72 	 192      	 0.1233 	 0.9200
+
+[2025/05/29 11:03:11] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:03:11] - 0.04 	 0.21 	 8.09 	 198      	 0.1266 	 0.9179
+
+[2025/05/29 11:03:20] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:03:20] - 0.04 	 0.22 	 7.75 	 213      	 0.0884 	 0.9163
+
+[2025/05/29 11:03:28] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:03:28] - 0.04 	 0.23 	 7.75 	 219      	 0.0823 	 0.9143
+
+[2025/05/29 11:03:37] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:03:37] - 0.04 	 0.24 	 7.76 	 225      	 0.0888 	 0.9154
+
+[2025/05/29 11:03:46] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:03:46] - 0.04 	 0.25 	 7.77 	 233      	 0.0783 	 0.9126
+
+[2025/05/29 11:03:55] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:03:55] - 0.04 	 0.26 	 7.77 	 241      	 0.0806 	 0.9137
+
+[2025/05/29 11:04:04] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:04:04] - 0.04 	 0.27 	 7.87 	 249      	 0.0632 	 0.9119
+
+[2025/05/29 11:04:13] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:04:13] - 0.04 	 0.28 	 7.82 	 261      	 0.0657 	 0.9125
+
+[2025/05/29 11:04:21] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:04:21] - 0.04 	 0.29 	 7.75 	 273      	 0.0197 	 0.9107
+
+[2025/05/29 11:04:30] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:04:30] - 0.04 	 0.30 	 7.79 	 283      	 0.0194 	 0.9086
+
+[2025/05/29 11:04:39] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:04:39] - 0.04 	 0.31 	 7.84 	 289      	 0.0176 	 0.9042
+
+[2025/05/29 11:04:48] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:04:48] - 0.04 	 0.32 	 7.78 	 300      	 0.0163 	 0.9057
+
+[2025/05/29 11:04:57] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:04:57] - 0.04 	 0.33 	 7.96 	 308      	 0.0151 	 0.9011
+
+[2025/05/29 11:05:06] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:05:06] - 0.04 	 0.34 	 7.78 	 317      	 0.0152 	 0.9014
+
+[2025/05/29 11:05:15] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:05:15] - 0.04 	 0.35 	 7.98 	 325      	 0.0161 	 0.9008
+
+[2025/05/29 11:05:24] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:05:24] - 0.04 	 0.36 	 7.88 	 329      	 0.0164 	 0.9010
+
+[2025/05/29 11:05:33] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:05:33] - 0.04 	 0.37 	 7.99 	 336      	 0.0168 	 0.9028
+
+[2025/05/29 11:05:42] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:05:42] - 0.04 	 0.38 	 7.90 	 352      	 0.0158 	 0.9011
+
+[2025/05/29 11:05:52] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:05:52] - 0.04 	 0.39 	 8.20 	 365      	 0.0150 	 0.9006
+
+[2025/05/29 11:06:01] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:06:01] - 0.04 	 0.40 	 7.85 	 376      	 0.0133 	 0.8987
+
+[2025/05/29 11:06:10] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:06:10] - 0.05 	 0.10 	 7.57 	 97      	 0.9743 	 0.9332
+
+[2025/05/29 11:06:18] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:06:18] - 0.05 	 0.11 	 7.55 	 105      	 0.8351 	 0.9309
+
+[2025/05/29 11:06:27] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:06:27] - 0.05 	 0.12 	 7.97 	 113      	 0.7678 	 0.9310
+
+[2025/05/29 11:06:36] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:06:36] - 0.05 	 0.13 	 7.59 	 124      	 0.8453 	 0.9302
+
+[2025/05/29 11:06:45] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:06:45] - 0.05 	 0.14 	 7.71 	 132      	 0.8841 	 0.9298
+
+[2025/05/29 11:06:54] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:06:54] - 0.05 	 0.15 	 7.57 	 141      	 0.6210 	 0.9298
+
+[2025/05/29 11:07:02] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:07:02] - 0.05 	 0.16 	 7.69 	 149      	 0.5958 	 0.9280
+
+[2025/05/29 11:07:11] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:07:11] - 0.05 	 0.17 	 7.78 	 159      	 0.6128 	 0.9278
+
+[2025/05/29 11:07:20] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:07:20] - 0.05 	 0.18 	 7.72 	 166      	 0.5258 	 0.9263
+
+[2025/05/29 11:07:29] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:07:29] - 0.05 	 0.19 	 7.64 	 171      	 0.2837 	 0.9253
+
+[2025/05/29 11:07:38] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:07:38] - 0.05 	 0.20 	 7.65 	 179      	 0.2673 	 0.9231
+
+[2025/05/29 11:07:47] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:07:47] - 0.05 	 0.21 	 7.78 	 187      	 0.2590 	 0.9227
+
+[2025/05/29 11:07:56] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:07:56] - 0.05 	 0.22 	 8.05 	 195      	 0.2183 	 0.9205
+
+[2025/05/29 11:08:05] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:08:05] - 0.05 	 0.23 	 7.78 	 208      	 0.2448 	 0.9180
+
+[2025/05/29 11:08:13] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:08:13] - 0.05 	 0.24 	 7.70 	 218      	 0.2439 	 0.9148
+
+[2025/05/29 11:08:22] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:08:22] - 0.05 	 0.25 	 8.02 	 227      	 0.2477 	 0.9152
+
+[2025/05/29 11:08:31] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:08:31] - 0.05 	 0.26 	 7.70 	 242      	 0.1971 	 0.9121
+
+[2025/05/29 11:08:40] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:08:40] - 0.05 	 0.27 	 7.77 	 251      	 0.1429 	 0.9116
+
+[2025/05/29 11:08:49] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:08:49] - 0.05 	 0.28 	 7.84 	 260      	 0.1540 	 0.9102
+
+[2025/05/29 11:08:58] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:08:58] - 0.05 	 0.29 	 8.02 	 270      	 0.1380 	 0.9116
+
+[2025/05/29 11:09:07] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:09:07] - 0.05 	 0.30 	 7.88 	 283      	 0.0386 	 0.9103
+
+[2025/05/29 11:09:16] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:09:16] - 0.05 	 0.31 	 7.97 	 289      	 0.0312 	 0.9104
+
+[2025/05/29 11:09:25] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:09:25] - 0.05 	 0.32 	 7.95 	 301      	 0.0264 	 0.9079
+
+[2025/05/29 11:09:34] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:09:34] - 0.05 	 0.33 	 8.28 	 313      	 0.0244 	 0.9069
+
+[2025/05/29 11:09:43] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:09:43] - 0.05 	 0.34 	 7.88 	 325      	 0.0224 	 0.9033
+
+[2025/05/29 11:09:52] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:09:52] - 0.05 	 0.35 	 8.21 	 333      	 0.0211 	 0.9029
+
+[2025/05/29 11:10:01] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:10:01] - 0.05 	 0.36 	 7.92 	 346      	 0.0142 	 0.9011
+
+[2025/05/29 11:10:11] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:10:11] - 0.05 	 0.37 	 8.21 	 354      	 0.0112 	 0.8977
+
+[2025/05/29 11:10:20] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:10:20] - 0.05 	 0.38 	 7.85 	 362      	 0.0119 	 0.8945
+
+[2025/05/29 11:10:29] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:10:29] - 0.05 	 0.39 	 7.94 	 369      	 0.0114 	 0.8957
+
+[2025/05/29 11:10:38] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:10:38] - 0.05 	 0.40 	 7.97 	 385      	 0.0079 	 0.8911
+
+[2025/05/29 11:10:47] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:10:47] - 0.06 	 0.10 	 7.87 	 104      	 0.9167 	 0.9330
+
+[2025/05/29 11:10:55] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:10:55] - 0.06 	 0.11 	 7.68 	 112      	 0.9204 	 0.9323
+
+[2025/05/29 11:11:04] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:11:04] - 0.06 	 0.12 	 7.59 	 122      	 0.9236 	 0.9293
+
+[2025/05/29 11:11:14] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:11:14] - 0.06 	 0.13 	 8.61 	 129      	 0.7494 	 0.9275
+
+[2025/05/29 11:11:23] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:11:23] - 0.06 	 0.14 	 7.99 	 140      	 0.4283 	 0.9259
+
+[2025/05/29 11:11:31] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:11:31] - 0.06 	 0.15 	 7.68 	 144      	 0.4133 	 0.9266
+
+[2025/05/29 11:11:40] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:11:40] - 0.06 	 0.16 	 7.66 	 152      	 0.2326 	 0.9262
+
+[2025/05/29 11:11:49] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:11:49] - 0.06 	 0.17 	 7.82 	 160      	 0.2223 	 0.9251
+
+[2025/05/29 11:11:58] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:11:58] - 0.06 	 0.18 	 7.63 	 171      	 0.2273 	 0.9253
+
+[2025/05/29 11:12:07] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:12:07] - 0.06 	 0.19 	 8.06 	 183      	 0.1136 	 0.9238
+
+[2025/05/29 11:12:16] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:12:16] - 0.06 	 0.20 	 7.65 	 189      	 0.1211 	 0.9220
+
+[2025/05/29 11:12:25] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:12:25] - 0.06 	 0.21 	 8.08 	 197      	 0.1101 	 0.9210
+
+[2025/05/29 11:12:34] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:12:34] - 0.06 	 0.22 	 7.81 	 205      	 0.0733 	 0.9211
+
+[2025/05/29 11:12:43] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:12:43] - 0.06 	 0.23 	 8.10 	 211      	 0.0758 	 0.9198
+
+[2025/05/29 11:12:52] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:12:52] - 0.06 	 0.24 	 7.71 	 218      	 0.0324 	 0.9186
+
+[2025/05/29 11:13:00] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:13:00] - 0.06 	 0.25 	 7.72 	 224      	 0.0320 	 0.9186
+
+[2025/05/29 11:13:09] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:13:09] - 0.06 	 0.26 	 7.71 	 235      	 0.0332 	 0.9163
+
+[2025/05/29 11:13:18] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:13:18] - 0.06 	 0.27 	 7.72 	 240      	 0.0331 	 0.9166
+
+[2025/05/29 11:13:27] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:13:27] - 0.06 	 0.28 	 7.76 	 253      	 0.0310 	 0.9151
+
+[2025/05/29 11:13:36] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:13:36] - 0.06 	 0.29 	 8.32 	 262      	 0.0242 	 0.9105
+
+[2025/05/29 11:13:45] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:13:45] - 0.06 	 0.30 	 8.11 	 272      	 0.0221 	 0.9104
+
+[2025/05/29 11:13:54] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:13:54] - 0.06 	 0.31 	 7.80 	 279      	 0.0200 	 0.9097
+
+[2025/05/29 11:14:03] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:14:03] - 0.06 	 0.32 	 7.74 	 288      	 0.0180 	 0.9109
+
+[2025/05/29 11:14:12] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:14:12] - 0.06 	 0.33 	 7.92 	 297      	 0.0172 	 0.9094
+
+[2025/05/29 11:14:21] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:14:21] - 0.06 	 0.34 	 8.21 	 309      	 0.0128 	 0.9093
+
+[2025/05/29 11:14:30] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:14:30] - 0.06 	 0.35 	 7.86 	 326      	 0.0118 	 0.9052
+
+[2025/05/29 11:14:40] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:14:40] - 0.06 	 0.36 	 8.11 	 334      	 0.0112 	 0.9054
+
+[2025/05/29 11:14:49] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:14:49] - 0.06 	 0.37 	 8.23 	 349      	 0.0091 	 0.8998
+
+[2025/05/29 11:14:58] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:14:58] - 0.06 	 0.38 	 8.01 	 358      	 0.0097 	 0.8998
+
+[2025/05/29 11:15:08] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:15:08] - 0.06 	 0.39 	 8.30 	 365      	 0.0096 	 0.9004
+
+[2025/05/29 11:15:17] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:15:17] - 0.06 	 0.40 	 7.88 	 379      	 0.0102 	 0.8989
+
+[2025/05/29 11:15:25] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:15:25] - 0.07 	 0.10 	 7.55 	 99      	 0.9883 	 0.9322
+
+[2025/05/29 11:15:34] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:15:34] - 0.07 	 0.11 	 7.60 	 109      	 0.9672 	 0.9313
+
+[2025/05/29 11:15:43] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:15:43] - 0.07 	 0.12 	 8.08 	 115      	 0.9651 	 0.9305
+
+[2025/05/29 11:15:52] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:15:52] - 0.07 	 0.13 	 7.61 	 126      	 0.8742 	 0.9305
+
+[2025/05/29 11:16:01] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:16:01] - 0.07 	 0.14 	 7.63 	 128      	 0.8756 	 0.9301
+
+[2025/05/29 11:16:09] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:16:09] - 0.07 	 0.15 	 7.59 	 132      	 0.8783 	 0.9282
+
+[2025/05/29 11:16:18] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:16:18] - 0.07 	 0.16 	 7.62 	 139      	 0.8798 	 0.9292
+
+[2025/05/29 11:16:27] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:16:27] - 0.07 	 0.17 	 7.62 	 148      	 0.8540 	 0.9275
+
+[2025/05/29 11:16:36] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:16:36] - 0.07 	 0.18 	 7.70 	 163      	 0.3846 	 0.9231
+
+[2025/05/29 11:16:44] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:16:44] - 0.07 	 0.19 	 7.67 	 175      	 0.2521 	 0.9248
+
+[2025/05/29 11:16:53] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:16:53] - 0.07 	 0.20 	 7.64 	 182      	 0.2329 	 0.9235
+
+[2025/05/29 11:17:02] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:17:02] - 0.07 	 0.21 	 7.71 	 188      	 0.2297 	 0.9227
+
+[2025/05/29 11:17:10] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:17:10] - 0.07 	 0.22 	 7.67 	 196      	 0.2374 	 0.9221
+
+[2025/05/29 11:17:19] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:17:19] - 0.07 	 0.23 	 7.67 	 201      	 0.2421 	 0.9224
+
+[2025/05/29 11:17:28] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:17:28] - 0.07 	 0.24 	 7.68 	 213      	 0.0637 	 0.9202
+
+[2025/05/29 11:17:37] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:17:37] - 0.07 	 0.25 	 7.72 	 224      	 0.0430 	 0.9188
+
+[2025/05/29 11:17:45] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:17:45] - 0.07 	 0.26 	 7.74 	 232      	 0.0476 	 0.9184
+
+[2025/05/29 11:17:54] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:17:54] - 0.07 	 0.27 	 7.71 	 237      	 0.0514 	 0.9193
+
+[2025/05/29 11:18:03] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:18:03] - 0.07 	 0.28 	 7.83 	 248      	 0.0473 	 0.9151
+
+[2025/05/29 11:18:12] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:18:12] - 0.07 	 0.29 	 7.74 	 260      	 0.0499 	 0.9118
+
+[2025/05/29 11:18:21] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:18:21] - 0.07 	 0.30 	 7.80 	 270      	 0.0509 	 0.9110
+
+[2025/05/29 11:18:29] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:18:29] - 0.07 	 0.31 	 7.81 	 277      	 0.0384 	 0.9096
+
+[2025/05/29 11:18:38] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:18:38] - 0.07 	 0.32 	 7.76 	 288      	 0.0278 	 0.9089
+
+[2025/05/29 11:18:47] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:18:47] - 0.07 	 0.33 	 7.78 	 304      	 0.0329 	 0.9093
+
+[2025/05/29 11:18:56] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:18:56] - 0.07 	 0.34 	 7.81 	 311      	 0.0332 	 0.9080
+
+[2025/05/29 11:19:05] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:19:05] - 0.07 	 0.35 	 7.82 	 322      	 0.0321 	 0.9077
+
+[2025/05/29 11:19:14] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:19:14] - 0.07 	 0.36 	 7.87 	 329      	 0.0220 	 0.9055
+
+[2025/05/29 11:19:23] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:19:23] - 0.07 	 0.37 	 7.92 	 335      	 0.0258 	 0.9059
+
+[2025/05/29 11:19:32] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:19:32] - 0.07 	 0.38 	 7.85 	 347      	 0.0289 	 0.9029
+
+[2025/05/29 11:19:41] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:19:41] - 0.07 	 0.39 	 7.88 	 354      	 0.0239 	 0.8997
+
+[2025/05/29 11:19:50] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:19:50] - 0.07 	 0.40 	 7.89 	 366      	 0.0269 	 0.8980
+
+[2025/05/29 11:19:58] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:19:58] - 0.08 	 0.10 	 7.55 	 98      	 0.9973 	 0.9328
+
+[2025/05/29 11:20:07] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 11:20:07] - 0.08 	 0.11 	 7.70 	 102      	 0.9929 	 0.9325
+
+[2025/05/29 11:20:16] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:34:17] - 0.08 	 0.12 	 7.56 	 107      	 0.9932 	 0.9328
+
+[2025/05/29 13:34:26] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:34:26] - 0.08 	 0.13 	 7.96 	 117      	 0.9902 	 0.9300
+
+[2025/05/29 13:34:35] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:34:35] - 0.08 	 0.14 	 7.77 	 130      	 0.9184 	 0.9290
+
+[2025/05/29 13:34:45] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:34:45] - 0.08 	 0.15 	 8.17 	 137      	 0.7232 	 0.9286
+
+[2025/05/29 13:34:53] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:34:53] - 0.08 	 0.16 	 7.62 	 147      	 0.7041 	 0.9277
+
+[2025/05/29 13:35:02] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:35:02] - 0.08 	 0.17 	 7.62 	 156      	 0.6773 	 0.9259
+
+[2025/05/29 13:35:11] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:35:11] - 0.08 	 0.18 	 7.71 	 161      	 0.6621 	 0.9255
+
+[2025/05/29 13:35:20] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:35:20] - 0.08 	 0.19 	 7.73 	 168      	 0.3790 	 0.9256
+
+[2025/05/29 13:35:29] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:35:29] - 0.08 	 0.20 	 7.73 	 177      	 0.1823 	 0.9252
+
+[2025/05/29 13:35:37] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:35:37] - 0.08 	 0.21 	 7.63 	 184      	 0.1801 	 0.9190
+
+[2025/05/29 13:35:46] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:35:46] - 0.08 	 0.22 	 7.68 	 195      	 0.1833 	 0.9172
+
+[2025/05/29 13:35:55] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:35:55] - 0.08 	 0.23 	 7.72 	 203      	 0.1603 	 0.9159
+
+[2025/05/29 13:36:04] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:36:04] - 0.08 	 0.24 	 7.71 	 210      	 0.1158 	 0.9159
+
+[2025/05/29 13:36:12] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:36:12] - 0.08 	 0.25 	 7.72 	 220      	 0.1139 	 0.9151
+
+[2025/05/29 13:36:21] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:36:21] - 0.08 	 0.26 	 7.75 	 228      	 0.0977 	 0.9142
+
+[2025/05/29 13:36:30] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:36:30] - 0.08 	 0.27 	 7.70 	 236      	 0.0941 	 0.9143
+
+[2025/05/29 13:36:39] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:36:39] - 0.08 	 0.28 	 7.74 	 245      	 0.0992 	 0.9121
+
+[2025/05/29 13:36:48] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:36:48] - 0.08 	 0.29 	 8.01 	 256      	 0.1050 	 0.9089
+
+[2025/05/29 13:36:57] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:36:57] - 0.08 	 0.30 	 8.28 	 266      	 0.0939 	 0.9103
+
+[2025/05/29 13:37:06] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:37:06] - 0.08 	 0.31 	 7.87 	 276      	 0.0786 	 0.9113
+
+[2025/05/29 13:37:15] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:37:15] - 0.08 	 0.32 	 8.12 	 282      	 0.0717 	 0.9087
+
+[2025/05/29 13:37:24] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:37:24] - 0.08 	 0.33 	 7.95 	 296      	 0.0507 	 0.9071
+
+[2025/05/29 13:37:34] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:37:34] - 0.08 	 0.34 	 8.18 	 304      	 0.0466 	 0.9048
+
+[2025/05/29 13:37:43] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:37:43] - 0.08 	 0.35 	 7.83 	 311      	 0.0407 	 0.9038
+
+[2025/05/29 13:37:51] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:37:51] - 0.08 	 0.36 	 7.87 	 324      	 0.0329 	 0.9047
+
+[2025/05/29 13:38:00] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:38:00] - 0.08 	 0.37 	 7.94 	 338      	 0.0332 	 0.9010
+
+[2025/05/29 13:38:09] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:38:09] - 0.08 	 0.38 	 7.92 	 347      	 0.0142 	 0.8987
+
+[2025/05/29 13:38:18] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:38:18] - 0.08 	 0.39 	 7.87 	 359      	 0.0060 	 0.8859
+
+[2025/05/29 13:38:27] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:38:27] - 0.08 	 0.40 	 7.88 	 373      	 0.0057 	 0.8845
+
+[2025/05/29 13:41:19] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:41:19] - 0.09 	 0.20 	 7.76 	 180      	 0.4248 	 0.9258
+
+[2025/05/29 13:41:28] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:41:28] - 0.09 	 0.21 	 7.67 	 188      	 0.3409 	 0.9241
+
+[2025/05/29 13:41:37] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:41:37] - 0.09 	 0.22 	 8.09 	 195      	 0.3539 	 0.9220
+
+[2025/05/29 13:41:46] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:41:46] - 0.09 	 0.23 	 7.70 	 204      	 0.2221 	 0.9200
+
+[2025/05/29 13:41:54] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:41:54] - 0.09 	 0.24 	 7.85 	 211      	 0.2047 	 0.9189
+
+[2025/05/29 13:42:03] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:42:03] - 0.09 	 0.25 	 7.69 	 221      	 0.2027 	 0.9159
+
+[2025/05/29 13:42:12] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:42:12] - 0.09 	 0.26 	 7.73 	 232      	 0.1936 	 0.9152
+
+[2025/05/29 13:42:21] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:42:21] - 0.09 	 0.27 	 8.01 	 241      	 0.2033 	 0.9146
+
+[2025/05/29 13:42:30] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:42:30] - 0.09 	 0.28 	 7.73 	 258      	 0.1924 	 0.9151
+
+[2025/05/29 13:42:39] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:42:39] - 0.09 	 0.29 	 7.72 	 262      	 0.2006 	 0.9109
+
+[2025/05/29 13:42:47] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:42:47] - 0.09 	 0.30 	 7.80 	 274      	 0.1587 	 0.9096
+
+[2025/05/29 13:42:57] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:42:57] - 0.09 	 0.31 	 8.18 	 286      	 0.1311 	 0.9078
+
+[2025/05/29 13:43:06] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:43:06] - 0.09 	 0.32 	 7.78 	 295      	 0.0713 	 0.9051
+
+[2025/05/29 13:43:15] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:43:15] - 0.09 	 0.33 	 8.15 	 303      	 0.0710 	 0.9055
+
+[2025/05/29 13:43:24] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:43:24] - 0.09 	 0.34 	 7.85 	 311      	 0.0577 	 0.9045
+
+[2025/05/29 13:43:33] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:43:33] - 0.09 	 0.35 	 7.80 	 319      	 0.0397 	 0.9035
+
+[2025/05/29 13:43:42] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:43:42] - 0.10 	 0.20 	 7.70 	 176      	 0.4571 	 0.9253
+
+[2025/05/29 13:43:51] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:43:51] - 0.10 	 0.21 	 8.04 	 185      	 0.4044 	 0.9235
+
+[2025/05/29 13:44:00] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:44:00] - 0.10 	 0.22 	 7.73 	 190      	 0.1937 	 0.9238
+
+[2025/05/29 13:44:08] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:44:08] - 0.10 	 0.23 	 7.68 	 199      	 0.1978 	 0.9216
+
+[2025/05/29 13:44:17] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:44:17] - 0.10 	 0.24 	 7.94 	 207      	 0.1554 	 0.9200
+
+[2025/05/29 13:44:27] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:44:27] - 0.10 	 0.25 	 8.57 	 217      	 0.1610 	 0.9181
+
+[2025/05/29 13:44:36] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:44:36] - 0.10 	 0.26 	 7.75 	 225      	 0.1637 	 0.9154
+
+[2025/05/29 13:44:45] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:44:45] - 0.10 	 0.27 	 7.77 	 237      	 0.1700 	 0.9150
+
+[2025/05/29 13:44:54] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:44:54] - 0.10 	 0.28 	 7.89 	 246      	 0.1638 	 0.9146
+
+[2025/05/29 13:45:03] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:45:03] - 0.10 	 0.29 	 7.74 	 256      	 0.1606 	 0.9137
+
+[2025/05/29 13:45:12] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:45:12] - 0.10 	 0.30 	 8.11 	 266      	 0.1649 	 0.9128
+
+[2025/05/29 13:45:21] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:45:21] - 0.10 	 0.31 	 7.79 	 275      	 0.1101 	 0.9135
+
+[2025/05/29 13:45:30] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:45:30] - 0.10 	 0.32 	 8.15 	 285      	 0.1047 	 0.9119
+
+[2025/05/29 13:45:39] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:45:39] - 0.10 	 0.33 	 7.79 	 297      	 0.0821 	 0.9088
+
+[2025/05/29 13:45:48] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:45:48] - 0.10 	 0.34 	 7.87 	 310      	 0.0582 	 0.9045
+
+[2025/05/29 13:45:56] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:45:56] - 0.10 	 0.35 	 7.84 	 322      	 0.0183 	 0.9035
+
+[2025/05/29 13:46:06] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:46:06] - 0.11 	 0.20 	 8.05 	 168      	 0.2081 	 0.9276
+
+[2025/05/29 13:46:14] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:46:14] - 0.11 	 0.21 	 7.75 	 176      	 0.1693 	 0.9263
+
+[2025/05/29 13:46:24] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:46:24] - 0.11 	 0.22 	 8.11 	 188      	 0.1459 	 0.9233
+
+[2025/05/29 13:46:32] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:46:32] - 0.11 	 0.23 	 7.73 	 200      	 0.1704 	 0.9222
+
+[2025/05/29 13:46:41] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:46:41] - 0.11 	 0.24 	 7.67 	 206      	 0.1542 	 0.9210
+
+[2025/05/29 13:46:50] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:46:50] - 0.11 	 0.25 	 7.91 	 214      	 0.1356 	 0.9188
+
+[2025/05/29 13:46:59] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:46:59] - 0.11 	 0.26 	 7.75 	 223      	 0.1361 	 0.9191
+
+[2025/05/29 13:47:08] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:47:08] - 0.11 	 0.27 	 7.86 	 233      	 0.1453 	 0.9189
+
+[2025/05/29 13:47:17] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:47:17] - 0.11 	 0.28 	 7.71 	 240      	 0.1363 	 0.9172
+
+[2025/05/29 13:47:26] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:47:26] - 0.11 	 0.29 	 8.12 	 249      	 0.0972 	 0.9155
+
+[2025/05/29 13:47:35] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:47:35] - 0.11 	 0.30 	 7.74 	 258      	 0.0822 	 0.9149
+
+[2025/05/29 13:47:44] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:47:44] - 0.11 	 0.31 	 8.24 	 270      	 0.0598 	 0.9106
+
+[2025/05/29 13:47:53] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:47:53] - 0.11 	 0.32 	 7.78 	 277      	 0.0547 	 0.9094
+
+[2025/05/29 13:48:02] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:48:02] - 0.11 	 0.33 	 8.12 	 289      	 0.0596 	 0.9116
+
+[2025/05/29 13:48:11] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:48:11] - 0.11 	 0.34 	 7.79 	 297      	 0.0460 	 0.9115
+
+[2025/05/29 13:48:20] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:48:20] - 0.11 	 0.35 	 8.14 	 311      	 0.0441 	 0.9092
+
+[2025/05/29 13:48:29] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:48:29] - 0.12 	 0.20 	 7.64 	 171      	 0.2031 	 0.9271
+
+[2025/05/29 13:48:38] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:48:38] - 0.12 	 0.21 	 7.95 	 179      	 0.2051 	 0.9262
+
+[2025/05/29 13:48:47] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:48:47] - 0.12 	 0.22 	 7.69 	 181      	 0.2076 	 0.9256
+
+[2025/05/29 13:48:57] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:48:57] - 0.12 	 0.23 	 8.61 	 185      	 0.1938 	 0.9262
+
+[2025/05/29 13:49:06] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:49:06] - 0.12 	 0.24 	 7.96 	 195      	 0.1873 	 0.9247
+
+[2025/05/29 13:49:15] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:49:15] - 0.12 	 0.25 	 7.79 	 202      	 0.1837 	 0.9241
+
+[2025/05/29 13:49:25] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:49:25] - 0.12 	 0.26 	 8.09 	 215      	 0.1543 	 0.9201
+
+[2025/05/29 13:49:33] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:49:33] - 0.12 	 0.27 	 7.68 	 228      	 0.0951 	 0.9187
+
+[2025/05/29 13:49:43] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:49:43] - 0.12 	 0.28 	 8.04 	 238      	 0.0968 	 0.9175
+
+[2025/05/29 13:49:52] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:49:52] - 0.12 	 0.29 	 7.76 	 249      	 0.1042 	 0.9160
+
+[2025/05/29 13:50:01] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:50:01] - 0.12 	 0.30 	 7.90 	 260      	 0.1058 	 0.9148
+
+[2025/05/29 13:50:10] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:50:10] - 0.12 	 0.31 	 7.76 	 268      	 0.0952 	 0.9102
+
+[2025/05/29 13:50:19] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:50:19] - 0.12 	 0.32 	 7.84 	 280      	 0.0621 	 0.9101
+
+[2025/05/29 13:50:29] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:50:29] - 0.12 	 0.33 	 8.09 	 291      	 0.0162 	 0.9077
+
+[2025/05/29 13:50:38] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:50:38] - 0.12 	 0.34 	 7.76 	 298      	 0.0130 	 0.9061
+
+[2025/05/29 13:50:47] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:50:47] - 0.12 	 0.35 	 7.87 	 310      	 0.0096 	 0.9010
+
+[2025/05/29 13:50:56] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:50:56] - 0.13 	 0.20 	 7.66 	 170      	 0.2522 	 0.9227
+
+[2025/05/29 13:51:04] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:51:04] - 0.13 	 0.21 	 7.69 	 174      	 0.1938 	 0.9225
+
+[2025/05/29 13:51:13] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:51:13] - 0.13 	 0.22 	 7.71 	 178      	 0.2007 	 0.9243
+
+[2025/05/29 13:51:23] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:51:23] - 0.13 	 0.23 	 8.10 	 185      	 0.2084 	 0.9234
+
+[2025/05/29 13:51:32] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:51:32] - 0.13 	 0.24 	 7.73 	 194      	 0.1984 	 0.9216
+
+[2025/05/29 13:51:41] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:51:41] - 0.13 	 0.25 	 7.88 	 205      	 0.0996 	 0.9212
+
+[2025/05/29 13:51:50] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:51:50] - 0.13 	 0.26 	 7.72 	 210      	 0.0984 	 0.9220
+
+[2025/05/29 13:51:59] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:51:59] - 0.13 	 0.27 	 7.95 	 218      	 0.0970 	 0.9197
+
+[2025/05/29 13:52:08] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:52:08] - 0.13 	 0.28 	 7.72 	 229      	 0.0959 	 0.9177
+
+[2025/05/29 13:52:17] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:52:17] - 0.13 	 0.29 	 7.77 	 239      	 0.0854 	 0.9168
+
+[2025/05/29 13:52:26] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:52:26] - 0.13 	 0.30 	 7.72 	 245      	 0.0804 	 0.9175
+
+[2025/05/29 13:52:34] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:52:34] - 0.13 	 0.31 	 7.72 	 260      	 0.0838 	 0.9136
+
+[2025/05/29 13:52:44] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:52:44] - 0.13 	 0.32 	 8.11 	 275      	 0.0263 	 0.9137
+
+[2025/05/29 13:52:52] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:52:52] - 0.13 	 0.33 	 7.75 	 282      	 0.0241 	 0.9131
+
+[2025/05/29 13:53:01] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:53:01] - 0.13 	 0.34 	 7.79 	 298      	 0.0221 	 0.9104
+
+[2025/05/29 13:53:10] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:53:10] - 0.13 	 0.35 	 7.95 	 308      	 0.0182 	 0.9069
+
+[2025/05/29 13:53:19] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:53:19] - 0.14 	 0.20 	 7.65 	 173      	 0.2013 	 0.9265
+
+[2025/05/29 13:53:28] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:53:28] - 0.14 	 0.21 	 7.84 	 183      	 0.2310 	 0.9243
+
+[2025/05/29 13:53:37] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:53:37] - 0.14 	 0.22 	 7.68 	 190      	 0.2473 	 0.9237
+
+[2025/05/29 13:53:46] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:53:46] - 0.14 	 0.23 	 7.99 	 199      	 0.0489 	 0.9232
+
+[2025/05/29 13:53:54] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:53:54] - 0.14 	 0.24 	 7.69 	 206      	 0.0478 	 0.9228
+
+[2025/05/29 13:54:04] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:54:04] - 0.14 	 0.25 	 8.10 	 209      	 0.0460 	 0.9231
+
+[2025/05/29 13:54:12] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:54:12] - 0.14 	 0.26 	 7.75 	 216      	 0.0390 	 0.9227
+
+[2025/05/29 13:54:22] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:54:22] - 0.14 	 0.27 	 8.12 	 229      	 0.0333 	 0.9197
+
+[2025/05/29 13:54:30] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:54:30] - 0.14 	 0.28 	 7.78 	 238      	 0.0339 	 0.9146
+
+[2025/05/29 13:54:40] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:54:40] - 0.14 	 0.29 	 8.04 	 251      	 0.0373 	 0.9117
+
+[2025/05/29 13:54:49] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:54:49] - 0.14 	 0.30 	 7.75 	 256      	 0.0381 	 0.9099
+
+[2025/05/29 13:54:58] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:54:58] - 0.14 	 0.31 	 8.11 	 263      	 0.0339 	 0.9095
+
+[2025/05/29 13:55:07] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:55:07] - 0.14 	 0.32 	 7.77 	 282      	 0.0173 	 0.9074
+
+[2025/05/29 13:55:15] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:55:15] - 0.14 	 0.33 	 7.85 	 295      	 0.0187 	 0.9041
+
+[2025/05/29 13:55:25] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:55:25] - 0.14 	 0.34 	 7.99 	 312      	 0.0178 	 0.9056
+
+[2025/05/29 13:55:34] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:55:34] - 0.14 	 0.35 	 7.83 	 317      	 0.0183 	 0.9043
+
+[2025/05/29 13:55:42] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:55:42] - 0.15 	 0.20 	 7.64 	 174      	 0.2543 	 0.9213
+
+[2025/05/29 13:55:52] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:55:52] - 0.15 	 0.21 	 8.13 	 177      	 0.0944 	 0.9203
+
+[2025/05/29 13:56:01] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:56:01] - 0.15 	 0.22 	 7.73 	 183      	 0.0999 	 0.9200
+
+[2025/05/29 13:56:09] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:56:09] - 0.15 	 0.23 	 7.78 	 187      	 0.0486 	 0.9198
+
+[2025/05/29 13:56:18] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:56:18] - 0.15 	 0.24 	 7.69 	 191      	 0.0464 	 0.9208
+
+[2025/05/29 13:56:27] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:56:27] - 0.15 	 0.25 	 7.74 	 200      	 0.0496 	 0.9207
+
+[2025/05/29 13:56:36] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:56:36] - 0.15 	 0.26 	 7.76 	 210      	 0.0417 	 0.9191
+
+[2025/05/29 13:56:45] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:56:45] - 0.15 	 0.27 	 7.79 	 222      	 0.0403 	 0.9182
+
+[2025/05/29 13:56:54] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:56:54] - 0.15 	 0.28 	 7.95 	 230      	 0.0401 	 0.9160
+
+[2025/05/29 13:57:03] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:57:03] - 0.15 	 0.29 	 7.70 	 235      	 0.0474 	 0.9152
+
+[2025/05/29 13:57:12] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:57:12] - 0.15 	 0.30 	 7.80 	 252      	 0.0401 	 0.9130
+
+[2025/05/29 13:57:21] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:57:21] - 0.15 	 0.31 	 7.93 	 265      	 0.0282 	 0.9099
+
+[2025/05/29 13:57:30] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:57:30] - 0.15 	 0.32 	 7.85 	 276      	 0.0301 	 0.9074
+
+[2025/05/29 13:57:39] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:57:39] - 0.15 	 0.33 	 8.08 	 291      	 0.0119 	 0.8950
+
+[2025/05/29 13:57:48] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:57:48] - 0.15 	 0.34 	 7.92 	 298      	 0.0104 	 0.8960
+
+[2025/05/29 13:57:57] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:57:57] - 0.15 	 0.35 	 7.90 	 303      	 0.0106 	 0.8952
+
+[2025/05/29 13:58:06] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:58:06] - 0.16 	 0.20 	 7.64 	 168      	 0.1107 	 0.9220
+
+[2025/05/29 13:58:14] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:58:14] - 0.16 	 0.21 	 7.71 	 175      	 0.1146 	 0.9205
+
+[2025/05/29 13:58:23] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:58:23] - 0.16 	 0.22 	 7.64 	 178      	 0.1202 	 0.9203
+
+[2025/05/29 13:58:32] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:58:32] - 0.16 	 0.23 	 7.66 	 192      	 0.0927 	 0.9171
+
+[2025/05/29 13:58:40] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:58:40] - 0.16 	 0.24 	 7.67 	 196      	 0.0790 	 0.9176
+
+[2025/05/29 13:58:49] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:58:49] - 0.16 	 0.25 	 7.67 	 202      	 0.0806 	 0.9182
+
+[2025/05/29 13:58:58] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:58:58] - 0.16 	 0.26 	 7.70 	 212      	 0.0684 	 0.9147
+
+[2025/05/29 13:59:07] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:59:07] - 0.16 	 0.27 	 8.06 	 224      	 0.0260 	 0.9129
+
+[2025/05/29 13:59:16] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:59:16] - 0.16 	 0.28 	 7.71 	 232      	 0.0264 	 0.9129
+
+[2025/05/29 13:59:25] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:59:25] - 0.16 	 0.29 	 8.12 	 244      	 0.0242 	 0.9127
+
+[2025/05/29 13:59:34] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:59:34] - 0.16 	 0.30 	 7.80 	 253      	 0.0232 	 0.9107
+
+[2025/05/29 13:59:42] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:59:42] - 0.16 	 0.31 	 7.75 	 258      	 0.0198 	 0.9100
+
+[2025/05/29 13:59:51] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 13:59:51] - 0.16 	 0.32 	 7.81 	 267      	 0.0194 	 0.9086
+
+[2025/05/29 14:00:00] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:00:00] - 0.16 	 0.33 	 7.78 	 279      	 0.0187 	 0.9058
+
+[2025/05/29 14:00:09] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:00:09] - 0.16 	 0.34 	 7.82 	 290      	 0.0158 	 0.9054
+
+[2025/05/29 14:00:18] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:00:18] - 0.16 	 0.35 	 7.84 	 300      	 0.0119 	 0.8995
+
+[2025/05/29 14:00:27] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:00:27] - 0.17 	 0.20 	 7.70 	 172      	 0.2487 	 0.9252
+
+[2025/05/29 14:00:36] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:00:36] - 0.17 	 0.21 	 7.70 	 179      	 0.2420 	 0.9244
+
+[2025/05/29 14:00:45] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:00:45] - 0.17 	 0.22 	 7.70 	 183      	 0.0771 	 0.9244
+
+[2025/05/29 14:00:54] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:00:54] - 0.17 	 0.23 	 7.68 	 187      	 0.0738 	 0.9235
+
+[2025/05/29 14:01:02] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:01:02] - 0.17 	 0.24 	 7.68 	 194      	 0.0766 	 0.9235
+
+[2025/05/29 14:01:11] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:01:11] - 0.17 	 0.25 	 7.79 	 199      	 0.0749 	 0.9232
+
+[2025/05/29 14:01:20] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:01:20] - 0.17 	 0.26 	 7.74 	 208      	 0.0544 	 0.9209
+
+[2025/05/29 14:01:29] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:01:29] - 0.17 	 0.27 	 8.10 	 218      	 0.0579 	 0.9196
+
+[2025/05/29 14:01:38] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:01:38] - 0.17 	 0.28 	 7.81 	 229      	 0.0550 	 0.9164
+
+[2025/05/29 14:01:48] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:01:48] - 0.17 	 0.29 	 9.02 	 236      	 0.0609 	 0.9154
+
+[2025/05/29 14:01:57] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:01:57] - 0.17 	 0.30 	 7.99 	 254      	 0.0156 	 0.9150
+
+[2025/05/29 14:02:06] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:02:06] - 0.17 	 0.31 	 7.81 	 266      	 0.0140 	 0.9084
+
+[2025/05/29 14:02:15] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:02:15] - 0.17 	 0.32 	 7.79 	 278      	 0.0120 	 0.9063
+
+[2025/05/29 14:02:24] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:02:24] - 0.17 	 0.33 	 7.87 	 289      	 0.0127 	 0.9043
+
+[2025/05/29 14:02:33] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:02:33] - 0.17 	 0.34 	 7.84 	 296      	 0.0127 	 0.9034
+
+[2025/05/29 14:02:42] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:02:42] - 0.17 	 0.35 	 7.81 	 306      	 0.0106 	 0.9024
+
+[2025/05/29 14:02:51] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:02:51] - 0.18 	 0.20 	 7.63 	 171      	 0.1091 	 0.9277
+
+[2025/05/29 14:03:00] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:03:00] - 0.18 	 0.21 	 8.00 	 181      	 0.1013 	 0.9243
+
+[2025/05/29 14:03:08] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:03:08] - 0.18 	 0.22 	 7.66 	 192      	 0.0552 	 0.9196
+
+[2025/05/29 14:03:17] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:03:17] - 0.18 	 0.23 	 7.68 	 195      	 0.0576 	 0.9193
+
+[2025/05/29 14:03:26] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:03:26] - 0.18 	 0.24 	 7.95 	 200      	 0.0524 	 0.9172
+
+[2025/05/29 14:03:35] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:03:35] - 0.18 	 0.25 	 7.69 	 207      	 0.0481 	 0.9147
+
+[2025/05/29 14:03:44] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:03:44] - 0.18 	 0.26 	 8.14 	 216      	 0.0477 	 0.9160
+
+[2025/05/29 14:03:53] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:03:53] - 0.18 	 0.27 	 7.70 	 223      	 0.0534 	 0.9158
+
+[2025/05/29 14:04:02] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:04:02] - 0.18 	 0.28 	 7.87 	 231      	 0.0180 	 0.9153
+
+[2025/05/29 14:04:11] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:04:11] - 0.18 	 0.29 	 7.73 	 240      	 0.0171 	 0.9131
+
+[2025/05/29 14:04:19] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:04:19] - 0.18 	 0.30 	 7.71 	 247      	 0.0148 	 0.9149
+
+[2025/05/29 14:04:29] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:04:29] - 0.18 	 0.31 	 8.06 	 263      	 0.0118 	 0.9088
+
+[2025/05/29 14:04:37] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:04:37] - 0.18 	 0.32 	 7.76 	 271      	 0.0113 	 0.9067
+
+[2025/05/29 14:04:46] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:04:46] - 0.18 	 0.33 	 7.91 	 284      	 0.0113 	 0.9045
+
+[2025/05/29 14:04:56] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:04:56] - 0.18 	 0.34 	 8.22 	 293      	 0.0093 	 0.9039
+
+[2025/05/29 14:05:05] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:05:05] - 0.18 	 0.35 	 8.03 	 302      	 0.0107 	 0.9018
+
+[2025/05/29 14:05:13] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:05:13] - 0.19 	 0.20 	 7.64 	 167      	 0.2568 	 0.9243
+
+[2025/05/29 14:05:22] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:05:22] - 0.19 	 0.21 	 8.05 	 179      	 0.2103 	 0.9229
+
+[2025/05/29 14:05:31] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:05:31] - 0.19 	 0.22 	 7.66 	 185      	 0.2226 	 0.9218
+
+[2025/05/29 14:05:40] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:05:40] - 0.19 	 0.23 	 7.69 	 192      	 0.2199 	 0.9195
+
+[2025/05/29 14:05:49] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:05:49] - 0.19 	 0.24 	 7.70 	 197      	 0.2233 	 0.9184
+
+[2025/05/29 14:05:57] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:05:57] - 0.19 	 0.25 	 7.69 	 202      	 0.1973 	 0.9183
+
+[2025/05/29 14:06:07] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:06:07] - 0.19 	 0.26 	 8.87 	 210      	 0.1854 	 0.9164
+
+[2025/05/29 14:06:16] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:06:16] - 0.19 	 0.27 	 7.70 	 218      	 0.0634 	 0.9151
+
+[2025/05/29 14:06:25] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:06:25] - 0.19 	 0.28 	 7.93 	 224      	 0.0630 	 0.9146
+
+[2025/05/29 14:06:34] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:06:34] - 0.19 	 0.29 	 7.71 	 233      	 0.0654 	 0.9143
+
+[2025/05/29 14:06:43] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:06:43] - 0.19 	 0.30 	 7.77 	 236      	 0.0657 	 0.9129
+
+[2025/05/29 14:06:51] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:06:51] - 0.19 	 0.31 	 7.86 	 253      	 0.0580 	 0.9125
+
+[2025/05/29 14:07:01] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:07:01] - 0.19 	 0.32 	 8.00 	 264      	 0.0474 	 0.9118
+
+[2025/05/29 14:07:10] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:07:10] - 0.19 	 0.33 	 7.90 	 275      	 0.0321 	 0.9115
+
+[2025/05/29 14:07:18] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:07:18] - 0.19 	 0.34 	 7.85 	 286      	 0.0278 	 0.9080
+
+[2025/05/29 14:07:27] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:07:27] - 0.19 	 0.35 	 7.79 	 294      	 0.0210 	 0.9080
+
+[2025/05/29 14:07:36] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:07:36] - 0.20 	 0.20 	 7.66 	 170      	 0.0624 	 0.9202
+
+[2025/05/29 14:07:45] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:07:45] - 0.20 	 0.21 	 7.99 	 177      	 0.0643 	 0.9197
+
+[2025/05/29 14:07:54] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:07:54] - 0.20 	 0.22 	 7.70 	 186      	 0.0618 	 0.9202
+
+[2025/05/29 14:08:03] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:08:03] - 0.20 	 0.23 	 7.75 	 191      	 0.0606 	 0.9178
+
+[2025/05/29 14:08:12] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:08:12] - 0.20 	 0.24 	 7.84 	 198      	 0.0562 	 0.9183
+
+[2025/05/29 14:08:20] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:08:20] - 0.20 	 0.25 	 7.67 	 202      	 0.0579 	 0.9166
+
+[2025/05/29 14:08:29] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:08:29] - 0.20 	 0.26 	 7.83 	 206      	 0.0587 	 0.9162
+
+[2025/05/29 14:08:38] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:08:38] - 0.20 	 0.27 	 7.78 	 212      	 0.0568 	 0.9164
+
+[2025/05/29 14:08:47] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:08:47] - 0.20 	 0.28 	 7.70 	 221      	 0.0514 	 0.9165
+
+[2025/05/29 14:08:55] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:08:55] - 0.20 	 0.29 	 7.80 	 227      	 0.0518 	 0.9135
+
+[2025/05/29 14:09:04] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:09:04] - 0.20 	 0.30 	 7.72 	 234      	 0.0541 	 0.9113
+
+[2025/05/29 14:09:13] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:09:13] - 0.20 	 0.31 	 7.78 	 248      	 0.0601 	 0.9093
+
+[2025/05/29 14:09:22] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:09:22] - 0.20 	 0.32 	 7.96 	 260      	 0.0409 	 0.9071
+
+[2025/05/29 14:09:31] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:09:31] - 0.20 	 0.33 	 8.18 	 275      	 0.0309 	 0.9075
+
+[2025/05/29 14:09:40] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:09:40] - 0.20 	 0.34 	 7.79 	 286      	 0.0119 	 0.9071
+
+[2025/05/29 14:09:49] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:09:49] - 0.20 	 0.35 	 7.84 	 295      	 0.0118 	 0.9060
+
+[2025/05/29 14:09:58] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:09:58] - 0.21 	 0.20 	 7.87 	 165      	 0.0874 	 0.9240
+
+[2025/05/29 14:10:07] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:10:07] - 0.21 	 0.21 	 7.64 	 170      	 0.0909 	 0.9248
+
+[2025/05/29 14:10:16] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:10:16] - 0.21 	 0.22 	 8.00 	 171      	 0.0913 	 0.9244
+
+[2025/05/29 14:10:24] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:10:24] - 0.21 	 0.23 	 7.66 	 179      	 0.0798 	 0.9209
+
+[2025/05/29 14:10:33] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:10:33] - 0.21 	 0.24 	 7.67 	 186      	 0.0782 	 0.9194
+
+[2025/05/29 14:10:42] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:10:42] - 0.21 	 0.25 	 7.74 	 194      	 0.0764 	 0.9193
+
+[2025/05/29 14:10:51] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:10:51] - 0.21 	 0.26 	 7.82 	 199      	 0.0719 	 0.9163
+
+[2025/05/29 14:11:00] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:11:00] - 0.21 	 0.27 	 7.97 	 212      	 0.0654 	 0.9147
+
+[2025/05/29 14:11:09] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:11:09] - 0.21 	 0.28 	 7.69 	 223      	 0.0611 	 0.9136
+
+[2025/05/29 14:11:18] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:11:18] - 0.21 	 0.29 	 8.05 	 226      	 0.0622 	 0.9137
+
+[2025/05/29 14:11:27] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:11:27] - 0.21 	 0.30 	 7.72 	 229      	 0.0670 	 0.9123
+
+[2025/05/29 14:11:36] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:11:36] - 0.21 	 0.31 	 7.82 	 243      	 0.0193 	 0.9067
+
+[2025/05/29 14:11:45] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:11:45] - 0.21 	 0.32 	 7.87 	 258      	 0.0183 	 0.9061
+
+[2025/05/29 14:11:54] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:11:54] - 0.21 	 0.33 	 8.13 	 273      	 0.0159 	 0.9035
+
+[2025/05/29 14:12:03] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:12:03] - 0.21 	 0.34 	 7.75 	 280      	 0.0170 	 0.9038
+
+[2025/05/29 14:12:12] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:12:12] - 0.21 	 0.35 	 8.11 	 289      	 0.0157 	 0.9023
+
+[2025/05/29 14:12:21] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:12:21] - 0.22 	 0.20 	 7.67 	 160      	 0.1637 	 0.9238
+
+[2025/05/29 14:12:30] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:12:30] - 0.22 	 0.21 	 7.91 	 165      	 0.1686 	 0.9228
+
+[2025/05/29 14:12:39] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:12:39] - 0.22 	 0.22 	 7.74 	 172      	 0.0921 	 0.9218
+
+[2025/05/29 14:12:48] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:12:48] - 0.22 	 0.23 	 7.66 	 178      	 0.0951 	 0.9205
+
+[2025/05/29 14:12:57] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:12:57] - 0.22 	 0.24 	 7.70 	 191      	 0.0828 	 0.9194
+
+[2025/05/29 14:13:06] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:13:06] - 0.22 	 0.25 	 8.34 	 201      	 0.0642 	 0.9180
+
+[2025/05/29 14:13:15] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:13:15] - 0.22 	 0.26 	 7.80 	 211      	 0.0270 	 0.9156
+
+[2025/05/29 14:13:24] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:13:24] - 0.22 	 0.27 	 7.92 	 213      	 0.0264 	 0.9152
+
+[2025/05/29 14:13:33] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:13:33] - 0.22 	 0.28 	 7.82 	 222      	 0.0258 	 0.9139
+
+[2025/05/29 14:13:41] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:13:41] - 0.22 	 0.29 	 7.75 	 232      	 0.0180 	 0.9128
+
+[2025/05/29 14:13:50] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:13:50] - 0.22 	 0.30 	 7.76 	 237      	 0.0171 	 0.9128
+
+[2025/05/29 14:13:59] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:13:59] - 0.22 	 0.31 	 7.83 	 248      	 0.0169 	 0.9113
+
+[2025/05/29 14:14:08] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:14:08] - 0.22 	 0.32 	 7.76 	 258      	 0.0167 	 0.9104
+
+[2025/05/29 14:14:17] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:14:17] - 0.22 	 0.33 	 7.92 	 264      	 0.0177 	 0.9064
+
+[2025/05/29 14:14:26] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:14:26] - 0.22 	 0.34 	 7.83 	 274      	 0.0147 	 0.9049
+
+[2025/05/29 14:14:35] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:14:35] - 0.22 	 0.35 	 8.02 	 290      	 0.0146 	 0.9049
+
+[2025/05/29 14:14:44] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:14:44] - 0.23 	 0.20 	 7.66 	 167      	 0.1208 	 0.9261
+
+[2025/05/29 14:14:53] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:14:53] - 0.23 	 0.21 	 7.92 	 172      	 0.0937 	 0.9239
+
+[2025/05/29 14:15:01] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:15:01] - 0.23 	 0.22 	 7.72 	 177      	 0.0581 	 0.9244
+
+[2025/05/29 14:15:11] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:15:11] - 0.23 	 0.23 	 8.10 	 182      	 0.0550 	 0.9235
+
+[2025/05/29 14:15:19] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:15:19] - 0.23 	 0.24 	 7.74 	 189      	 0.0606 	 0.9214
+
+[2025/05/29 14:15:28] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:15:28] - 0.23 	 0.25 	 7.79 	 194      	 0.0662 	 0.9218
+
+[2025/05/29 14:15:37] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:15:37] - 0.23 	 0.26 	 7.76 	 199      	 0.0714 	 0.9226
+
+[2025/05/29 14:15:46] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:15:46] - 0.23 	 0.27 	 7.68 	 207      	 0.0631 	 0.9214
+
+[2025/05/29 14:15:55] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:15:55] - 0.23 	 0.28 	 8.02 	 217      	 0.0546 	 0.9198
+
+[2025/05/29 14:16:04] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:16:04] - 0.23 	 0.29 	 7.75 	 228      	 0.0548 	 0.9171
+
+[2025/05/29 14:16:13] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:16:13] - 0.23 	 0.30 	 8.11 	 238      	 0.0412 	 0.9149
+
+[2025/05/29 14:16:22] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:16:22] - 0.23 	 0.31 	 7.81 	 246      	 0.0386 	 0.9141
+
+[2025/05/29 14:16:31] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:16:31] - 0.23 	 0.32 	 8.14 	 256      	 0.0362 	 0.9097
+
+[2025/05/29 14:16:40] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:16:40] - 0.23 	 0.33 	 7.78 	 270      	 0.0321 	 0.9073
+
+[2025/05/29 14:16:49] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:16:49] - 0.23 	 0.34 	 7.81 	 282      	 0.0349 	 0.9055
+
+[2025/05/29 14:16:58] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:16:58] - 0.23 	 0.35 	 7.96 	 292      	 0.0298 	 0.9030
+
+[2025/05/29 14:17:07] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:17:07] - 0.24 	 0.20 	 8.06 	 160      	 0.1841 	 0.9261
+
+[2025/05/29 14:17:16] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:17:16] - 0.24 	 0.21 	 7.76 	 166      	 0.2027 	 0.9280
+
+[2025/05/29 14:17:25] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:17:25] - 0.24 	 0.22 	 7.65 	 169      	 0.1664 	 0.9276
+
+[2025/05/29 14:17:34] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:17:34] - 0.24 	 0.23 	 7.83 	 173      	 0.1697 	 0.9261
+
+[2025/05/29 14:17:42] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:17:42] - 0.24 	 0.24 	 7.65 	 178      	 0.1707 	 0.9245
+
+[2025/05/29 14:17:51] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:17:51] - 0.24 	 0.25 	 7.69 	 182      	 0.1682 	 0.9231
+
+[2025/05/29 14:18:00] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:18:00] - 0.24 	 0.26 	 7.78 	 192      	 0.1427 	 0.9211
+
+[2025/05/29 14:18:09] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:18:09] - 0.24 	 0.27 	 7.69 	 202      	 0.1432 	 0.9205
+
+[2025/05/29 14:18:17] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:18:17] - 0.24 	 0.28 	 7.69 	 208      	 0.1549 	 0.9194
+
+[2025/05/29 14:18:26] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:18:26] - 0.24 	 0.29 	 7.82 	 220      	 0.1217 	 0.9188
+
+[2025/05/29 14:18:35] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:18:35] - 0.24 	 0.30 	 7.73 	 230      	 0.1209 	 0.9173
+
+[2025/05/29 14:18:44] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:18:44] - 0.24 	 0.31 	 7.78 	 240      	 0.1157 	 0.9159
+
+[2025/05/29 14:18:53] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:18:53] - 0.24 	 0.32 	 7.73 	 253      	 0.1009 	 0.9114
+
+[2025/05/29 14:19:01] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:19:01] - 0.24 	 0.33 	 7.76 	 263      	 0.1002 	 0.9097
+
+[2025/05/29 14:19:10] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:19:10] - 0.24 	 0.34 	 7.78 	 276      	 0.0908 	 0.9073
+
+[2025/05/29 14:19:19] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:19:19] - 0.24 	 0.35 	 7.80 	 287      	 0.0866 	 0.9034
+
+[2025/05/29 14:19:28] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:19:28] - 0.25 	 0.20 	 7.64 	 161      	 0.1052 	 0.9207
+
+[2025/05/29 14:19:36] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:19:36] - 0.25 	 0.21 	 7.67 	 167      	 0.1018 	 0.9199
+
+[2025/05/29 14:19:45] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:19:45] - 0.25 	 0.22 	 7.67 	 170      	 0.0981 	 0.9198
+
+[2025/05/29 14:19:54] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:19:54] - 0.25 	 0.23 	 7.64 	 176      	 0.0330 	 0.9207
+
+[2025/05/29 14:20:02] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:20:02] - 0.25 	 0.24 	 7.70 	 181      	 0.0324 	 0.9208
+
+[2025/05/29 14:20:11] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:20:11] - 0.25 	 0.25 	 7.69 	 188      	 0.0340 	 0.9205
+
+[2025/05/29 14:20:20] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:20:20] - 0.25 	 0.26 	 7.71 	 195      	 0.0262 	 0.9175
+
+[2025/05/29 14:20:29] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:20:29] - 0.25 	 0.27 	 7.68 	 205      	 0.0224 	 0.9165
+
+[2025/05/29 14:20:37] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:20:37] - 0.25 	 0.28 	 7.69 	 213      	 0.0160 	 0.9138
+
+[2025/05/29 14:20:46] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:20:46] - 0.25 	 0.29 	 7.72 	 226      	 0.0152 	 0.9138
+
+[2025/05/29 14:20:55] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:20:55] - 0.25 	 0.30 	 7.72 	 235      	 0.0131 	 0.9125
+
+[2025/05/29 14:21:04] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:21:04] - 0.25 	 0.31 	 7.72 	 245      	 0.0147 	 0.9082
+
+[2025/05/29 14:21:13] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:21:13] - 0.25 	 0.32 	 7.77 	 258      	 0.0150 	 0.9079
+
+[2025/05/29 14:21:21] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:21:21] - 0.25 	 0.33 	 7.76 	 262      	 0.0143 	 0.9076
+
+[2025/05/29 14:21:30] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:21:30] - 0.25 	 0.34 	 7.81 	 275      	 0.0136 	 0.9048
+
+[2025/05/29 14:21:39] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:21:39] - 0.25 	 0.35 	 7.87 	 285      	 0.0124 	 0.9026
+
+[2025/05/29 14:21:48] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:21:48] - 0.26 	 0.20 	 7.66 	 159      	 0.0857 	 0.9243
+
+[2025/05/29 14:21:57] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:21:57] - 0.26 	 0.21 	 7.62 	 165      	 0.0651 	 0.9240
+
+[2025/05/29 14:22:05] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:22:05] - 0.26 	 0.22 	 7.63 	 171      	 0.0639 	 0.9228
+
+[2025/05/29 14:22:14] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:22:14] - 0.26 	 0.23 	 7.65 	 175      	 0.0626 	 0.9192
+
+[2025/05/29 14:22:23] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:22:23] - 0.26 	 0.24 	 7.66 	 183      	 0.0501 	 0.9197
+
+[2025/05/29 14:22:31] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:22:31] - 0.26 	 0.25 	 7.66 	 190      	 0.0522 	 0.9209
+
+[2025/05/29 14:22:40] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:22:40] - 0.26 	 0.26 	 7.68 	 197      	 0.0557 	 0.9210
+
+[2025/05/29 14:22:49] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:22:49] - 0.26 	 0.27 	 7.73 	 202      	 0.0497 	 0.9200
+
+[2025/05/29 14:22:58] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:22:58] - 0.26 	 0.28 	 7.69 	 210      	 0.0476 	 0.9168
+
+[2025/05/29 14:23:07] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:23:07] - 0.26 	 0.29 	 7.72 	 216      	 0.0423 	 0.9164
+
+[2025/05/29 14:23:16] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:23:16] - 0.26 	 0.30 	 7.75 	 228      	 0.0463 	 0.9132
+
+[2025/05/29 14:23:24] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:23:24] - 0.26 	 0.31 	 7.79 	 237      	 0.0208 	 0.9121
+
+[2025/05/29 14:23:33] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:23:33] - 0.26 	 0.32 	 7.73 	 245      	 0.0181 	 0.9118
+
+[2025/05/29 14:23:42] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:23:42] - 0.26 	 0.33 	 7.81 	 257      	 0.0192 	 0.9111
+
+[2025/05/29 14:23:51] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:23:51] - 0.26 	 0.34 	 7.75 	 266      	 0.0172 	 0.9104
+
+[2025/05/29 14:24:00] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:24:00] - 0.26 	 0.35 	 7.79 	 286      	 0.0171 	 0.9057
+
+[2025/05/29 14:24:08] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:24:08] - 0.27 	 0.20 	 7.64 	 157      	 0.1074 	 0.9218
+
+[2025/05/29 14:24:17] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:24:17] - 0.27 	 0.21 	 7.69 	 162      	 0.0914 	 0.9229
+
+[2025/05/29 14:24:26] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:24:26] - 0.27 	 0.22 	 7.65 	 168      	 0.0846 	 0.9229
+
+[2025/05/29 14:24:35] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:24:35] - 0.27 	 0.23 	 7.65 	 174      	 0.0683 	 0.9235
+
+[2025/05/29 14:24:43] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:24:43] - 0.27 	 0.24 	 7.66 	 184      	 0.0706 	 0.9221
+
+[2025/05/29 14:24:52] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:24:52] - 0.27 	 0.25 	 7.65 	 190      	 0.0702 	 0.9186
+
+[2025/05/29 14:25:01] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:25:01] - 0.27 	 0.26 	 7.68 	 204      	 0.0743 	 0.9147
+
+[2025/05/29 14:25:10] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:25:10] - 0.27 	 0.27 	 7.70 	 209      	 0.0736 	 0.9140
+
+[2025/05/29 14:25:18] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:25:18] - 0.27 	 0.28 	 7.71 	 213      	 0.0669 	 0.9145
+
+[2025/05/29 14:25:27] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:25:27] - 0.27 	 0.29 	 7.77 	 217      	 0.0657 	 0.9145
+
+[2025/05/29 14:25:36] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:25:36] - 0.27 	 0.30 	 7.73 	 225      	 0.0680 	 0.9134
+
+[2025/05/29 14:25:45] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:25:45] - 0.27 	 0.31 	 7.85 	 233      	 0.0627 	 0.9136
+
+[2025/05/29 14:25:54] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:25:54] - 0.27 	 0.32 	 7.75 	 247      	 0.0594 	 0.9118
+
+[2025/05/29 14:26:03] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:26:03] - 0.27 	 0.33 	 7.82 	 254      	 0.0586 	 0.9115
+
+[2025/05/29 14:26:11] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:26:11] - 0.27 	 0.34 	 7.82 	 267      	 0.0561 	 0.9094
+
+[2025/05/29 14:26:20] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:26:20] - 0.27 	 0.35 	 7.76 	 283      	 0.0192 	 0.9082
+
+[2025/05/29 14:43:01] - Alpha 	 Thres 	 Time 	 Neuron 	 PoisonACC 	 CleanACC
+[2025/05/29 14:43:01] - mask_values.txt 	 0.26 	 12.64 	 216      	 0.0390 	 0.9227
+

@@ -1,0 +1,2 @@
+No 	 Layer Name 	 Neuron Idx 	 Mask 	 PoisonLoss 	 PoisonACC 	 CleanLoss 	 CleanACC
+216.00 	 layer2.1.bn1 	 64 	 0.26 	 3.3217 	 0.0390 	 0.2619 	 0.9227
