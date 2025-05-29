@@ -62,7 +62,8 @@ for _ in range(args.anp_steps):
 	with torch.no_grad():
 		for p_n in noise_params:
 			p_n.data.clamp_(-args.anp_eps, args.anp_eps)
-
+```
+```python
 for p_n in noise_params:
 	p_n.requires_grad = False
 for p_m in mask_params:
