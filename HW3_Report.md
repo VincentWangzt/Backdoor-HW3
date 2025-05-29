@@ -99,3 +99,13 @@ Finally, we update the mask parameters using the computed loss and clip the mask
 
 Then the **results of experiments**.
 
+Basically I ran experiments with `anp_alpha` ranging from 0.01 to 0.99, and then tested the pruned network with `anp_alpha` from 0.01 to 0.27 and `threshold` from 0.20 to 0.35.
+The results of the first experiment is stored in `mask_out/mask_output.log`, and the second one in `prune_out/prune_output.log`. 
+
+1. When `anp_alpha` gets bigger, `PoisonAcc` gets bigger, but not very steadily. Randomness has a big influence on the results. And `CleanAcc` gets smaller very slightly overall, but the randomness fluctuation is also big compared to this trend. As for the final `ASR` and `ACC`, when we fluctuate `anp_alpha` and fix `threshold`, the results showed no recoginizable trend, but tend to flucuate with the quality of the mask generated. Generally, with large threshold, higher `anp_alpha` tends to have a bigger probability of low `ASR` (below 10%).
+2. When `threshold` gets bigger, `PoisonAcc` decreases with sharp drops and plateaus, while `CleanAcc` decreases more steadily.
+3. **Final experiment result**: From the experiment we found two classes of hyperparameters that yields the required results.
+   + `anp_alpha = 0.14`, `threshold = 0.23`~`0.26`.
+   + `anp_alpha = 0.15`, `threshold = 0.24`or `0.25`.
+   + when `anp_alpha = 0.14`, `threshold = 0.26`, `ASR` = `0.0390`, `ACC` = `0.9227`. This mask has been stored at `mask_out/mask_values.txt`. Test result is saved at `prune_out/pruning_by_0.26.txt`.
+
