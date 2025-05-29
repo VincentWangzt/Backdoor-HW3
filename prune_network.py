@@ -6,6 +6,7 @@ import torch
 from torch.utils.data import DataLoader
 from torchvision.datasets import CIFAR10
 import torchvision.transforms as transforms
+import logging, time
 
 import models
 import data.poison_cifar as poison
@@ -33,7 +34,7 @@ parser.add_argument('--trigger-alpha',
 
 parser.add_argument('--mask-file',
                     type=str,
-                    required='./mask_out/mask_values.txt',
+                    default='./mask_out/mask_values.txt',
                     help='The text file containing the mask values')
 
 # Hyper-parameters you can change
@@ -50,6 +51,8 @@ device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 
 def main():
+	# start_test = time.time()
+
 	MEAN_CIFAR10 = (0.4914, 0.4822, 0.4465)
 	STD_CIFAR10 = (0.2023, 0.1994, 0.2010)
 	transform_test = transforms.Compose([
@@ -106,6 +109,23 @@ def main():
 		    'No \t Layer Name \t Neuron Idx \t Mask \t PoisonLoss \t PoisonACC \t CleanLoss \t CleanACC\n'
 		)
 		f.writelines(results)
+
+	# end_test = time.time()
+	# logger = logging.getLogger(__name__)
+	# logging.basicConfig(format='[%(asctime)s] - %(message)s',
+	#                     datefmt='%Y/%m/%d %H:%M:%S',
+	#                     level=logging.DEBUG,
+	#                     handlers=[
+	#                         logging.FileHandler(
+	#                             os.path.join('prune_out', 'prune_output.log')),
+	#                         logging.StreamHandler()
+	#                     ])
+	# # logger.info(args)
+	# logger.info('Alpha \t Thres \t Time \t Neuron \t PoisonACC \t CleanACC')
+	# result_list = results[0].split(' \t ')
+	# logger.info('{} \t {:.2f} \t {:.2f} \t {}      \t {} \t {}'.format(
+	#     args.mask_file.split('/')[2], args.threshold, end_test - start_test,
+	#     result_list[0].split('.')[0], result_list[-3], result_list[-1]))
 
 
 def read_data(file_name):

@@ -5,11 +5,12 @@ import argparse
 from xml.etree.ElementInclude import include
 import numpy as np
 from collections import OrderedDict
-from pydantic import IntEnumError
+# from pydantic import IntEnumError
 import torch
 from torch.utils.data import DataLoader, RandomSampler
 from torchvision.datasets import CIFAR10
 import torchvision.transforms as transforms
+import logging
 
 import models
 import data.poison_cifar as poison
@@ -64,6 +65,7 @@ device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 
 def main():
+	start_train = time.time()
 	MEAN_CIFAR10 = (0.4914, 0.4822, 0.4465)
 	STD_CIFAR10 = (0.2023, 0.1994, 0.2010)
 	transform_train = transforms.Compose([
@@ -155,6 +157,21 @@ def main():
 		            cl_test_acc))
 	save_mask_scores(net.state_dict(),
 	                 os.path.join(args.output_dir, 'mask_values.txt'))
+	end_train = time.time()
+	logger = logging.getLogger(__name__)
+	logging.basicConfig(format='[%(asctime)s] - %(message)s',
+	                    datefmt='%Y/%m/%d %H:%M:%S',
+	                    level=logging.DEBUG,
+	                    handlers=[
+	                        logging.FileHandler(
+	                            os.path.join('mask_out', 'mask_output.log')),
+	                        logging.StreamHandler()
+	                    ])
+	# logger.info(args)
+	logger.info('Alpha \t Time \t TrainACC \t PoisonACC \t CleanACC')
+	logger.info('{:.2f} \t {:.1f} \t {:.4f} \t {:.4f} \t {:.4f}'.format(
+	    args.anp_alpha, end_train - start_train, train_acc, po_test_acc,
+	    cl_test_acc))
 
 
 def load_state_dict(net, orig_state_dict):
